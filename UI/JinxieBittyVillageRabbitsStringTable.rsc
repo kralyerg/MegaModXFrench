@@ -162,5 +162,9 @@ StringTable resource
 		{ String _name = "SmallFenceDiagonalTip";			String _text = "Placer une pièce de cloture diagonale."; }
 		
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "EdgeFenceMenu";				String _text = "Clôtures décoratives (pose en bordure de tuile)"; }
+
 	]
 }

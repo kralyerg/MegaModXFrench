@@ -153,16 +153,16 @@ StringTable resource
 		{ String _name = "NewTreesAEName";		String _text = "[CC] El Dorado - Adam et Ève"; }
 		{ String _name = "NewTreesAEDesc";		String _text = "Une partie Adam et Ève standard avec uniquement de nouveaux arbres du mod. Commencez avec seulement 2 personnes. Une petite quantité de nourriture, de bois de chauffage et de vêtements est fournie dans un petit chariot de stockage. Aucune structure n'a été construite, aucune graine ni bétail n'est initialement disponible - vous devrez tout survivre et acquérir par vous-même."; }
 		
-		{ String _name = "NewTrees2EasyName";		String _text = "[CC] Nuevo Arbol - Facile"; }
+		{ String _name = "NewTrees2EasyName";		String _text = "[CC] Nouveaux Arbres - Facile"; }
 		{ String _name = "NewTrees2EasyDesc";		String _text = "Une partie Facile standard avec uniquement de nouveaux arbres du mod - à l'exclusion des palmiers. Une partie facile débute avec six familles. Une grande quantité de vêtements, nourriture, bois de chauffage, matériaux de construction et outils est fournie. Les maisons et les zones de stockage ont déjà été construites. Des graines pour les champs et les vergers sont disponibles ainsi qu'un troupeau de bétail."; }
 
-		{ String _name = "NewTrees2MediumName";		String _text = "[CC] Nuevo Arbol - Moyen"; }
+		{ String _name = "NewTrees2MediumName";		String _text = "[CC] Nouveaux Arbres - Moyen"; }
 		{ String _name = "NewTrees2MediumDesc";		String _text = "Une partie Moyenne standard avec uniquement de nouveaux arbres du mod - à l'exclusion des palmiers. Une partie moyenne débute avec cinq familles. Vêtements, nourriture, bois de chauffage, outils et matériaux de construction sont fournis. Une grange de stockage a déjà été construite. Quelques graines pour les champs et les vergers sont disponibles."; }
 
-		{ String _name = "NewTrees2HardName";		String _text = "[CC] Nuevo Arbol - Difficile"; }
+		{ String _name = "NewTrees2HardName";		String _text = "[CC] Nouveaux Arbres - Difficile"; }
 		{ String _name = "NewTrees2HardDesc";		String _text = "Une partie Difficile standard avec uniquement de nouveaux arbres du mod - à l'exclusion des palmiers. Une partie difficile débute avec quatre familles. Une petite quantité de vêtements, nourriture, bois de chauffage et outils est fournie. Aucune graine pour l'agriculture n'est disponible."; }
 
-		{ String _name = "NewTrees2AEName";		String _text = "[CC] Nuevo Arbol - Adam et Ève"; }
+		{ String _name = "NewTrees2AEName";		String _text = "[CC] Nouveaux Arbres - Adam et Ève"; }
 		{ String _name = "NewTrees2AEDesc";		String _text = "Une partie Adam et Ève standard avec uniquement de nouveaux arbres du mod - à l'exclusion des palmiers. Une petite quantité de nourriture, de bois de chauffage et de vêtements est fournie dans un petit chariot de stockage. Aucune structure n'a été construite, aucune graine ni bétail n'est initialement disponible - vous devrez tout survivre et acquérir par vous-même."; }
 
 		{ String _name = "JungleEasyName";		String _text = "[CC] Jungle de Matacapan - Facile"; }
@@ -189,16 +189,16 @@ StringTable resource
 		{ String _name = "AppalachianAEName";		String _text = "[CC] Forêt des Appalaches - Adam et Ève"; }
 		{ String _name = "AppalachianAEDesc";		String _text = "Une partie Adam et Ève standard avec tous les arbres présents dans le mod et le jeu, sauf les arbres tropicaux. Une petite quantité de nourriture, de bois de chauffage et de vêtements est fournie dans un petit chariot de stockage. Aucune structure n'a été construite, aucune graine ni bétail n'est initialement disponible - vous devrez tout survivre et acquérir par vous-même."; }
 
-		{ String _name = "NewTrees2LiteEasyName";	String _text = "[CC] Nuevo Arbol Lite - Facile"; }
+		{ String _name = "NewTrees2LiteEasyName";	String _text = "[CC] Nouveaux Arbres Lite - Facile"; }
 		{ String _name = "NewTrees2LiteEasyDesc";	String _text = "Version allégée pour la performance. Une partie Facile standard avec uniquement de nouveaux arbres du mod - à l'exclusion des palmiers. Une partie facile débute avec six familles. Une grande quantité de vêtements, nourriture, bois de chauffage, matériaux de construction et outils est fournie. Les maisons et les zones de stockage ont déjà été construites. Des graines pour les champs et les vergers sont disponibles ainsi qu'un troupeau de bétail."; }
 
-		{ String _name = "NewTrees2LiteMediumName";	String _text = "[CC] Nuevo Arbol Lite - Moyen"; }
+		{ String _name = "NewTrees2LiteMediumName";	String _text = "[CC] Nouveaux Arbres Lite - Moyen"; }
 		{ String _name = "NewTrees2LiteMediumDesc";	String _text = "Version allégée pour la performance. Une partie Moyenne standard avec uniquement de nouveaux arbres du mod - à l'exclusion des palmiers. Une partie moyenne débute avec cinq familles. Vêtements, nourriture, bois de chauffage, outils et matériaux de construction sont fournis. Une grange de stockage a déjà été construite. Quelques graines pour les champs et les vergers sont disponibles."; }
 
-		{ String _name = "NewTrees2LiteHardName";	String _text = "[CC] Nuevo Arbol Lite - Difficile"; }
+		{ String _name = "NewTrees2LiteHardName";	String _text = "[CC] Nouveaux Arbres Lite - Difficile"; }
 		{ String _name = "NewTrees2LiteHardDesc";	String _text = "Version allégée pour la performance. Une partie Difficile standard avec uniquement de nouveaux arbres du mod - à l'exclusion des palmiers. Une partie difficile débute avec quatre familles. Une petite quantité de vêtements, nourriture, bois de chauffage et outils est fournie. Aucune graine pour l'agriculture n'est disponible."; }
 
-		{ String _name = "NewTrees2LiteAEName";		String _text = "[CC] Nuevo Arbol Lite - Adam et Ève"; }
+		{ String _name = "NewTrees2LiteAEName";		String _text = "[CC] Nouveaux Arbres Lite - Adam et Ève"; }
 		{ String _name = "NewTrees2LiteAEDesc";		String _text = "Version allégée pour la performance. Une partie Adam et Ève standard avec uniquement de nouveaux arbres du mod - à l'exclusion des palmiers. Une petite quantité de nourriture, de bois de chauffage et de vêtements est fournie dans un petit chariot de stockage. Aucune structure n'a été construite, aucune graine ni bétail n'est initialement disponible - vous devrez tout survivre et acquérir par vous-même."; }
 
 		{ String _name = "LlamaEasyName";		String _text = "[CC] La Malédiction du Lama Doré - Facile"; }

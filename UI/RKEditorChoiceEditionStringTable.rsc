@@ -24,7 +24,7 @@ StringTable resource
 		{ String _name = "RKFurniture4";			String _text = "Meuble Dore"; }
 
 		{ String _name = "Acai";				String _text = "Acai"; }
-		{ String _name = "Ale";					String _text = "Biere Legere"; }
+		{ String _name = "Ale";					String _text = "Bière"; }
 		{ String _name = "Apricot";				String _text = "Abricot"; }
 		{ String _name = "Banana";				String _text = "Banane"; }
 		{ String _name = "Barley";				String _text = "Orge"; }
@@ -1538,26 +1538,26 @@ StringTable resource
 		{ String _name = "MaltSorghumRequire";				String _text = "Fabrique 18-24 Malt [12 Sorghum]"; }
 		{ String _name = "MaltWheatRequire";				String _text = "Fabrique 18-24 Malt [12 Wheat]"; }
 
-		{ String _name = "BeerMaltRequire";				String _text = "Fabrique 6-10 Beer [10 Malt]"; }
-		{ String _name = "BeerMaltHopRequire";				String _text = "Fabrique 6-10 Strong Beer [10Malt, 2Hops]"; }
-		{ String _name = "AleAppleRequire";				String _text = "Fabrique 6-10 Ale [30 Apple]"; }
-		{ String _name = "AleApricotRequire";				String _text = "Fabrique 6-10 Ale [30 Apricot]"; }
-		{ String _name = "AleBlueberryRequire";				String _text = "Fabrique 6-10 Ale [60 Blueberry]"; }
-		{ String _name = "AleCherryRequire";				String _text = "Fabrique 6-10 Ale [30 Cherry]"; }
-		{ String _name = "AlePeachRequire";				String _text = "Fabrique 6-10 Ale [30 Peach]"; }
-		{ String _name = "AlePearRequire";				String _text = "Fabrique 6-10 Ale [30 Pear]"; }
-		{ String _name = "AlePumpkinRequire";				String _text = "Fabrique 6-10 Ale [30 Pumpkin]"; }
-		{ String _name = "WineBlackberryRequire";			String _text = "Fabrique 6-10 Wine [30 Blackberry]"; }
-		{ String _name = "WineGrapeRequire";				String _text = "Fabrique 6-10 Wine [30 Grape]"; }
-		{ String _name = "WinePlumRequire";				String _text = "Fabrique 6-10 Wine [30 Plum]"; }
-		{ String _name = "WineRaspberryRequire";			String _text = "Fabrique 6-10 Wine [30 Raspberry]"; }
-		{ String _name = "WineMulberryRequire";				String _text = "Fabrique 6-10 Wine [30 Mulberry]"; }
-		{ String _name = "WineStrawberryRequire";			String _text = "Fabrique 6-10 Wine [30 Strawberry]"; }
-		{ String _name = "WineWatermelonRequire";			String _text = "Fabrique 6-10 Wine [30 Watermelon]"; }
-		{ String _name = "WineRiceRequire";				String _text = "Fabrique 6-10 Wine [30 Rice]"; }
-		{ String _name = "WineCranberryRequire";			String _text = "Fabrique 6-10 Wine [30 Cranberry]"; }
-		{ String _name = "WineMangoRequire";				String _text = "Fabrique 6-10 Wine [30 Mango]"; }
-		{ String _name = "MeadHoneyRequire";				String _text = "Fabrique 6-10 Mead [45 Honey]"; }
+		{ String _name = "BeerMaltRequire";				String _text = "Bière [10 Malt]"; }
+		{ String _name = "BeerMaltHopRequire";				String _text = "Bière Forte [10 Malt, 2 Houblon]"; }
+		{ String _name = "AleAppleRequire";				String _text = "Bière [30 Pommes]"; }
+		{ String _name = "AleApricotRequire";				String _text = "Bière [30 Abricots]"; }
+		{ String _name = "AleBlueberryRequire";				String _text = "Bière [60 Myrtilles]"; }
+		{ String _name = "AleCherryRequire";				String _text = "Bière [30 Cerises]"; }
+		{ String _name = "AlePeachRequire";				String _text = "Bière [30 Pêches]"; }
+		{ String _name = "AlePearRequire";				String _text = "Bière [30 Poires]"; }
+		{ String _name = "AlePumpkinRequire";				String _text = "Bière [30 Citrouilles]"; }
+		{ String _name = "WineBlackberryRequire";			String _text = "Vin [30 Mûres]"; }
+		{ String _name = "WineGrapeRequire";				String _text = "Vin [30 Raisins]"; }
+		{ String _name = "WinePlumRequire";				String _text = "Vin [30 Prunes]"; }
+		{ String _name = "WineRaspberryRequire";			String _text = "Vin [30 Framboises]"; }
+		{ String _name = "WineMulberryRequire";				String _text = "Vin [30 Mûres de mûrier]"; }
+		{ String _name = "WineStrawberryRequire";			String _text = "Vin [30 Fraises]"; }
+		{ String _name = "WineWatermelonRequire";			String _text = "Vin [30 Pastèques]"; }
+		{ String _name = "WineRiceRequire";				String _text = "Vin [30 Riz]"; }
+		{ String _name = "WineCranberryRequire";			String _text = "Vin [30 Canneberges]"; }
+		{ String _name = "WineMangoRequire";				String _text = "Vin [30 Mangues]"; }
+		{ String _name = "MeadHoneyRequire";				String _text = "Hydromel [45 Miel]"; }
 
 		{ String _name = "RKWoodToFirewoodRequire";			String _text = "Fabrique 5-8 bois de chauffage [2 Rondin]"; }
 		{ String _name = "RKLumberToFirewoodRequire";			String _text = "Fabrique 5-8 bois de chauffage [5 bois de charpente]"; }
@@ -1860,6 +1860,287 @@ StringTable terrainType
 
 		{ String _name = "MarshPeak";				String _text = "Marsh]"; }
 
+
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "AdvanceFoodToolbar";				String _text = "Barre d'outils Nourriture avancée"; }
+		{ String _name = "AdvanceFoodToolbarLwr";				String _text = "barre d'outils nourriture avancée"; }
+		{ String _name = "AdvanceFoodToolbarTip";				String _text = "Barre d'outils Nourriture avancée. Ouvrez cette barre d'outils pour accéder aux options de bâtiments de nourriture avancés."; }
+		{ String _name = "AdvancedMarketsToolbar";				String _text = "Barre d'outils Marchés avancés"; }
+		{ String _name = "AdvancedMarketsToolbarLwr";				String _text = "barre d'outils marchés avancés"; }
+		{ String _name = "AdvancedMarketsToolbarTip";				String _text = "Barre d'outils Marchés avancés. Ouvrez cette barre d'outils pour accéder aux options de bâtiments de marchés avancés."; }
+		{ String _name = "AdvancedServicesToolbar";				String _text = "Barre d'outils Services avancés"; }
+		{ String _name = "AdvancedServicesToolbarLwr";				String _text = "barre d'outils services avancés"; }
+		{ String _name = "AdvancedServicesToolbarTip";				String _text = "Barre d'outils Services avancés. Ouvrez cette barre d'outils pour accéder aux options de bâtiments de services avancés."; }
+		{ String _name = "AdvancedStorageTip";				String _text = "Barre d'outils Stockage avancé. Ouvrez cette barre d'outils pour accéder à davantage d'options de stockage avancé."; }
+		{ String _name = "AdvancedTransportToolbar";				String _text = "Barre d'outils Transport avancé"; }
+		{ String _name = "AdvancedTransportToolbarLwr";				String _text = "barre d'outils transport avancé"; }
+		{ String _name = "AdvancedTransportToolbarTip";				String _text = "Barre d'outils Transport avancé. Ouvrez cette barre d'outils pour accéder aux options de transport avancé."; }
+		{ String _name = "ApplePieRequire";				String _text = "Faire une Tarte aux pommes [Farine +Miel +Pomme]"; }
+		{ String _name = "BacalhauFish";				String _text = "Poisson Bacalhau"; }
+		{ String _name = "BacalhauFishRequire";				String _text = "Faire du Poisson Bacalhau [12 Poisson +3 Sel]"; }
+		{ String _name = "Barrel";				String _text = "Tonneau"; }
+		{ String _name = "BarrelRequire";				String _text = "8-12 Tonneaux [2 bois, 1 cuivre]"; }
+		{ String _name = "BearSteakRequire";				String _text = "Faire un Steak d'ours [12 Ours]"; }
+		{ String _name = "Beef";				String _text = "Bœuf"; }
+		{ String _name = "BeefSteak";				String _text = "Steak de bœuf"; }
+		{ String _name = "BeefSteakRequire";				String _text = "Faire un Steak de bœuf [12 Bœuf]"; }
+		{ String _name = "BisonSteakRequire";				String _text = "Faire un Steak de bison [12 Bison]"; }
+		{ String _name = "BoarRibsRequire";				String _text = "Faire des Côtes de sanglier [12 Sanglier]"; }
+		{ String _name = "BostonhouseToolbar";				String _text = "Barre d'outils Maison de Boston"; }
+		{ String _name = "BostonhouseToolbarLwr";				String _text = "barre d'outils maison de boston"; }
+		{ String _name = "BostonhouseToolbarTip";				String _text = "Ouvrez cette barre d'outils pour accéder aux options de Maison de Boston. Il y a 2 séries de Maisons de Boston dans cette barre d'outils. 2 modèles différents."; }
+		{ String _name = "BreadRequire";				String _text = "Faire du Pain [Farine]"; }
+		{ String _name = "Bronze2Require";				String _text = "Fondre du Bronze [3 Minerai de cuivre, 3 Minerai d'étain, 3 Bois de chauffage]"; }
+		{ String _name = "BronzeRequire";				String _text = "Fondre du Bronze [2 Minerai de cuivre, 2 Minerai d'étain, 2 Charbon]"; }
+		{ String _name = "BronzeTool";				String _text = "Outil en bronze"; }
+		{ String _name = "BronzeToolRequire";				String _text = "Outil en bronze [1Rondin+1Bronze] 150 utilisations"; }
+		{ String _name = "CakeRequire";				String _text = "Faire des Gâteaux [Farine + Miel]"; }
+		{ String _name = "Cannon";				String _text = "Canon"; }
+		{ String _name = "CannonRequire";				String _text = "Canon [1 rondin +8 fer +4 poudre à canon]"; }
+		{ String _name = "CherryPieRequire";				String _text = "Faire une Tarte aux cerises [Farine +Miel +Cerise]"; }
+		{ String _name = "Chicken";				String _text = "Poulet"; }
+		{ String _name = "Crate";				String _text = "Caisse"; }
+		{ String _name = "CrateMakers";				String _text = "Tonnellerie"; }
+		{ String _name = "CrateMakersLwr";				String _text = "tonnellerie"; }
+		{ String _name = "CrateMakersTip";				String _text = "Tonnellerie. Le Tonnelier utilise du Bois et du Cuivre pour fabriquer des Tonneaux, ainsi que du Bois et du Fer pour fabriquer des Caisses. Taille : 7x6. Coût : 34 rondins, 20 pierre, 8 fer. Peut fabriquer : 8-12 Tonneaux ou Caisses à partir de 2 bois et 1 fer. Emploi : 1-2 travailleurs. Astuces : les Tonneaux sont utilisés pour la Poudre à canon et les Caisses sont utilisées pour exporter des marchandises par train."; }
+		{ String _name = "CrateRequire";				String _text = "8-12 Caisses [2 bois, 1 fer]"; }
+		{ String _name = "CuredBearMeat";				String _text = "Viande d'ours salée"; }
+		{ String _name = "CuredBearMeatRequire";				String _text = "Saler la Viande d'ours [12 Viande d'ours +3 Sel]"; }
+		{ String _name = "CuredBeefMeat";				String _text = "Viande de bœuf salée"; }
+		{ String _name = "CuredBeefMeatRequire";				String _text = "Saler la Viande de bœuf [12 Bœuf +3 Sel]"; }
+		{ String _name = "CuredBisonMeat";				String _text = "Viande de bison salée"; }
+		{ String _name = "CuredBisonMeatRequire";				String _text = "Saler la Viande de bison [12 Viande de bison +3 Sel]"; }
+		{ String _name = "CuredBoarMeat";				String _text = "Viande de sanglier salée"; }
+		{ String _name = "CuredBoarMeatRequire";				String _text = "Saler la Viande de sanglier [12 Viande de sanglier +3 Sel]"; }
+		{ String _name = "CuredChickenMeat";				String _text = "Viande de poulet salée"; }
+		{ String _name = "CuredChickenMeatRequire";				String _text = "Saler la Viande de poulet [12 Poulet +3 Sel]"; }
+		{ String _name = "CuredDuckMeat";				String _text = "Viande de canard salée"; }
+		{ String _name = "CuredDuckMeatRequire";				String _text = "Saler la Viande de canard [12 Viande de canard +3 Sel]"; }
+		{ String _name = "CuredGoatMeat";				String _text = "Viande de chèvre salée"; }
+		{ String _name = "CuredGoatMeatRequire";				String _text = "Saler la Viande de chèvre [12 Viande de chèvre +3 Sel]"; }
+		{ String _name = "CuredGooseMeat";				String _text = "Viande d'oie salée"; }
+		{ String _name = "CuredGooseMeatRequire";				String _text = "Saler la Viande d'oie [12 Viande d'oie+3 Sel]"; }
+		{ String _name = "CuredLambMeat";				String _text = "Viande d'agneau salée"; }
+		{ String _name = "CuredLambMeatRequire";				String _text = "Saler la Viande d'agneau [12 Mouton +3 Sel]"; }
+		{ String _name = "CuredPheasantMeat";				String _text = "Viande de faisan salée"; }
+		{ String _name = "CuredPheasantMeatRequire";				String _text = "Saler la Viande de faisan [12 Viande de faisan +3 Sel]"; }
+		{ String _name = "CuredPorkMeat";				String _text = "Viande de porc salée"; }
+		{ String _name = "CuredPorkMeatRequire";				String _text = "Saler la Viande de porc [12 Porc +3 Sel]"; }
+		{ String _name = "CuredVenisonMeat";				String _text = "Venaison salée"; }
+		{ String _name = "CuredVenisonMeatRequire";				String _text = "Saler la Venaison [12 Venaison +3 Sel]"; }
+		{ String _name = "DeerSteak";				String _text = "Steak de cerf"; }
+		{ String _name = "DeerSteakRequire";				String _text = "Faire un Steak de cerf [12 Venaison]"; }
+		{ String _name = "DriedBearMeat";				String _text = "Viande d'ours séchée"; }
+		{ String _name = "DriedBearMeatRequire";				String _text = "Sécher la Viande d'ours [12 Viande d'ours]"; }
+		{ String _name = "DriedBeefMeat";				String _text = "Viande de bœuf séchée"; }
+		{ String _name = "DriedBeefMeatRequire";				String _text = "Sécher la Viande de bœuf [12 Bœuf]"; }
+		{ String _name = "DriedBisonMeat";				String _text = "Viande de bison séchée"; }
+		{ String _name = "DriedBisonMeatRequire";				String _text = "Sécher la Viande de bison [12 Viande de bison]"; }
+		{ String _name = "DriedBoarMeat";				String _text = "Viande de sanglier séchée"; }
+		{ String _name = "DriedBoarMeatRequire";				String _text = "Sécher la Viande de sanglier [12 Viande de sanglier]"; }
+		{ String _name = "DriedChickenMeat";				String _text = "Viande de poulet séchée"; }
+		{ String _name = "DriedChickenMeatRequire";				String _text = "Sécher la Viande de poulet [12 Poulet]"; }
+		{ String _name = "DriedDuckMeat";				String _text = "Viande de canard séchée"; }
+		{ String _name = "DriedDuckMeatRequire";				String _text = "Sécher la Viande de canard [12 Viande de canard]"; }
+		{ String _name = "DriedGoatMeat";				String _text = "Viande de chèvre séchée"; }
+		{ String _name = "DriedGoatMeatRequire";				String _text = "Sécher la Viande de chèvre [12 Viande de chèvre]"; }
+		{ String _name = "DriedGooseMeat";				String _text = "Viande d'oie séchée"; }
+		{ String _name = "DriedGooseMeatRequire";				String _text = "Sécher la Viande d'oie [12 Viande d'oie]"; }
+		{ String _name = "DriedLambMeat";				String _text = "Viande d'agneau séchée"; }
+		{ String _name = "DriedLambMeatRequire";				String _text = "Sécher la Viande d'agneau [12 Mouton]"; }
+		{ String _name = "DriedMushroom";				String _text = "Champignon séché"; }
+		{ String _name = "DriedMushroomRequire";				String _text = "Sécher le Champignon [12 Champignon]"; }
+		{ String _name = "DriedPheasantMeat";				String _text = "Viande de faisan séchée"; }
+		{ String _name = "DriedPheasantMeatRequire";				String _text = "Sécher la Viande de faisan [12 Viande de faisan]"; }
+		{ String _name = "DriedPorkMeat";				String _text = "Viande de porc séchée"; }
+		{ String _name = "DriedPorkMeatRequire";				String _text = "Sécher la Viande de porc [12 Porc]"; }
+		{ String _name = "DriedVenisonMeat";				String _text = "Venaison séchée"; }
+		{ String _name = "DriedVenisonMeatRequire";				String _text = "Sécher la Venaison [12 Venaison]"; }
+		{ String _name = "Firewood";				String _text = "Bois de chauffage"; }
+		{ String _name = "Fish";				String _text = "Poisson"; }
+		{ String _name = "FlourBarleyRequire";				String _text = "Faire 24-32 Farine [16 Orge]"; }
+		{ String _name = "FlourCornRequire";				String _text = "Faire 24-32 Farine [16 Maïs]"; }
+		{ String _name = "FlourOatRequire";				String _text = "Faire 24-32 Farine [16 Avoine]"; }
+		{ String _name = "FlourRiceRequire";				String _text = "Faire 24-32 Farine [16 Riz]"; }
+		{ String _name = "FlourRyeRequire";				String _text = "Faire 24-32 Farine [16 Seigle]"; }
+		{ String _name = "FlourSorghumRequire";				String _text = "Faire 24-32 Farine [16 Sorgho]"; }
+		{ String _name = "FlourWheatRequire";				String _text = "Faire 24-32 Farine [16 Blé]"; }
+		{ String _name = "Fuel";				String _text = "Bois de chauffage"; }
+		{ String _name = "GoatMeatCutsRequire";				String _text = "Faire des Morceaux de chèvre [12 Viande de chèvre]"; }
+		{ String _name = "GoldOre";				String _text = "Minerai d'or"; }
+		{ String _name = "GrainSilo";				String _text = "Silo à grain"; }
+		{ String _name = "GrainSiloLwr";				String _text = "silo à grain"; }
+		{ String _name = "GrainSiloTip";				String _text = "Le Silo à grain est une installation de stockage qui ne stocke que les grains, avec une capacité plus élevée. Taille : 6x8. Coût : 48 bois et 12 pierres. Capacité : 50000 en poids. Astuces : les récolteurs devraient se rendre à ce stockage s'il est le plus proche de leur lieu de travail. Placez-le en conséquence."; }
+		{ String _name = "Gunpowder";				String _text = "Poudre à canon"; }
+		{ String _name = "GunpowderHouse";				String _text = "Poudrerie"; }
+		{ String _name = "GunpowderHouseLwr";				String _text = "poudrerie"; }
+		{ String _name = "GunpowderHouseTip";				String _text = "Poudrerie. L'Alchimiste est spécialisé dans la fabrication de la poudre à canon et de ses composants. Il peut aussi extraire du Soufre à partir de Minerai de soufre. Taille : 7x6 cases. Coût : 48 bois, 32 pierre, 24 fer et 18 verrerie. Utilise du Salpêtre, du Soufre, du Charbon de bois et un Tonneau pour créer de la poudre à canon. Astuces : elle est principalement utilisée pour la fabrication des armes de l'armurier."; }
+		{ String _name = "GunpowderRequire";				String _text = "Poudre à canon [4Salpêtre+2Charbon de bois+1Soufre+1Tonneau]"; }
+		{ String _name = "GunsmithMaker";				String _text = "Artillerie de l'armurier"; }
+		{ String _name = "GunsmithMakerLwr";				String _text = "artillerie de l'armurier"; }
+		{ String _name = "GunsmithMakerTip";				String _text = "Artillerie de l'armurier. L'armurier fabrique des armes à poudre à canon. Taille : 8x9 cases. Coût : 54 bois, 36 pierre et 18 fer. Utilise de la Poudre à canon, du Fer et parfois du Bois pour créer : Bombe tonnerre, Pistolet, Mousquet et Canon. Astuces : les objets fabriqués par l'armurier ne sont destinés qu'à la vente contre des ressources."; }
+		{ String _name = "HandGun";				String _text = "Pistolet"; }
+		{ String _name = "HandGunRequire";				String _text = "Pistolet [1 bois +2 fer +1 poudre à canon]"; }
+		{ String _name = "Herb";				String _text = "Herbe"; }
+		{ String _name = "Iron";				String _text = "Fer"; }
+		{ String _name = "IronTool";				String _text = "Outil en fer"; }
+		{ String _name = "KippersFish";				String _text = "Harengs fumés"; }
+		{ String _name = "KippersFishRequire";				String _text = "Faire des Harengs fumés [12 Poisson +1 Charbon de bois]"; }
+		{ String _name = "LambChop";				String _text = "Côtelette d'agneau"; }
+		{ String _name = "LambChopRequire";				String _text = "Faire une Côtelette d'agneau [12 Mouton]"; }
+		{ String _name = "Leather";				String _text = "Cuir"; }
+		{ String _name = "LittleHouse02";				String _text = "Petite Maison Colorée 2"; }
+		{ String _name = "LittleHouse02Lwr";				String _text = "petite maison colorée 2"; }
+		{ String _name = "LittleHouse02Tip";				String _text = "Une Petite Maison Colorée 2 sert à loger vos citoyens. Taille : 3x5 cases. Coût : 24 bois, 6 pierre. Résidence : 5 citoyens. EFF% de chauffage : 80. Modèles : 1. Couleurs : 12 variantes. Astuces : appuyez sur F pour changer de couleur."; }
+		{ String _name = "LittleHouse02floor2";				String _text = "Petite Maison Colorée 2 - 2e étage"; }
+		{ String _name = "LittleHouse02floor2Lwr";				String _text = "petite maison colorée 2 - 2e étage"; }
+		{ String _name = "LittleHouse02floor2Tip";				String _text = "Un ensemble de 2e étage coloré 2 sert à loger une 2e famille. Taille : 1x5 cases. Coût : 32 bois, 6 pierre. Résidence : 6 citoyens. EFF% de chauffage : 90. Modèles : 1. Couleurs : 12 variantes. Astuces : il se place juste à côté du premier étage, assurez-vous d'aligner les cheminées à l'arrière. Il doit s'ajuster parfaitement au-dessus du 1er étage. Appuyez sur F pour changer de couleur."; }
+		{ String _name = "LittleHouseToolba2rTip";				String _text = "Ouvrez cette barre d'outils pour accéder aux options de Petite Maison Colorée. Astuces : il s'agit d'un ensemble contenant un premier étage et un 2e étage spécial à placer au-dessus du premier étage pour une seconde famille. Ils auront 5 occupants et un EFF% de chauffage de 80. 12 couleurs différentes. Appuyez sur F pour changer de couleur."; }
+		{ String _name = "LittleHouseToolbar2";				String _text = "Barre d'outils Petite Maison Colorée 2"; }
+		{ String _name = "LittleHouseToolbar2Lwr";				String _text = "barre d'outils petite maison colorée 2"; }
+		{ String _name = "Log";				String _text = "Rondin"; }
+		{ String _name = "MetalBronze";				String _text = "Barre de bronze"; }
+		{ String _name = "Musket";				String _text = "Mousquet"; }
+		{ String _name = "MusketRequire";				String _text = "Mousquet [1 bois +3 fer +2 poudre à canon]"; }
+		{ String _name = "Mutton";				String _text = "Mouton"; }
+		{ String _name = "NMTLH2color10ALL";				String _text = "Petite Maison NMT"; }
+		{ String _name = "NMTLH2color10ALLLwr";				String _text = "petite maison nmt"; }
+		{ String _name = "NMTLH2color10ALLTip";				String _text = "Une petite maison NMT sert à loger vos citoyens. 4x5. Coût 24 Bois, 8 Pierres. EFF% de chauffage 80."; }
+		{ String _name = "NMTLH2color11ALL";				String _text = "Petite Maison NMT"; }
+		{ String _name = "NMTLH2color11ALLLwr";				String _text = "petite maison nmt"; }
+		{ String _name = "NMTLH2color11ALLTip";				String _text = "Une petite maison NMT sert à loger vos citoyens. 4x5. Coût 24 Bois, 8 Pierres. EFF% de chauffage 80."; }
+		{ String _name = "NMTLH2color12ALL";				String _text = "Petite Maison NMT"; }
+		{ String _name = "NMTLH2color12ALLLwr";				String _text = "petite maison nmt"; }
+		{ String _name = "NMTLH2color12ALLTip";				String _text = "Une petite maison NMT sert à loger vos citoyens. 4x5. Coût 24 Bois, 8 Pierres. EFF% de chauffage 80."; }
+		{ String _name = "NMTLH2color1ALL";				String _text = "Petite Maison NMT"; }
+		{ String _name = "NMTLH2color1ALLLwr";				String _text = "petite maison nmt"; }
+		{ String _name = "NMTLH2color1ALLTip";				String _text = "Une petite maison NMT sert à loger vos citoyens. 4x5. Coût 24 Bois, 8 Pierres. EFF% de chauffage 80."; }
+		{ String _name = "NMTLH2color2ALL";				String _text = "Petite Maison NMT"; }
+		{ String _name = "NMTLH2color2ALLLwr";				String _text = "petite maison nmt"; }
+		{ String _name = "NMTLH2color2ALLTip";				String _text = "Une petite maison NMT sert à loger vos citoyens. 4x5. Coût 24 Bois, 8 Pierres. EFF% de chauffage 80."; }
+		{ String _name = "NMTLH2color3ALL";				String _text = "Petite Maison NMT"; }
+		{ String _name = "NMTLH2color3ALLLwr";				String _text = "petite maison nmt"; }
+		{ String _name = "NMTLH2color3ALLTip";				String _text = "Une petite maison NMT sert à loger vos citoyens. 4x5. Coût 24 Bois, 8 Pierres. EFF% de chauffage 80."; }
+		{ String _name = "NMTLH2color4ALL";				String _text = "Petite Maison NMT"; }
+		{ String _name = "NMTLH2color4ALLLwr";				String _text = "petite maison nmt"; }
+		{ String _name = "NMTLH2color4ALLTip";				String _text = "Une petite maison NMT sert à loger vos citoyens. 4x5. Coût 24 Bois, 8 Pierres. EFF% de chauffage 80."; }
+		{ String _name = "NMTLH2color5ALL";				String _text = "Petite Maison NMT"; }
+		{ String _name = "NMTLH2color5ALLLwr";				String _text = "petite maison nmt"; }
+		{ String _name = "NMTLH2color5ALLTip";				String _text = "Une petite maison NMT sert à loger vos citoyens. 4x5. Coût 24 Bois, 8 Pierres. EFF% de chauffage 80."; }
+		{ String _name = "NMTLH2color6ALL";				String _text = "Petite Maison NMT"; }
+		{ String _name = "NMTLH2color6ALLLwr";				String _text = "petite maison nmt"; }
+		{ String _name = "NMTLH2color6ALLTip";				String _text = "Une petite maison NMT sert à loger vos citoyens. 4x5. Coût 24 Bois, 8 Pierres. EFF% de chauffage 80."; }
+		{ String _name = "NMTLH2color7ALL";				String _text = "Petite Maison NMT"; }
+		{ String _name = "NMTLH2color7ALLLwr";				String _text = "petite maison nmt"; }
+		{ String _name = "NMTLH2color7ALLTip";				String _text = "Une petite maison NMT sert à loger vos citoyens. 4x5. Coût 24 Bois, 8 Pierres. EFF% de chauffage 80."; }
+		{ String _name = "NMTLH2color8ALL";				String _text = "Petite Maison NMT"; }
+		{ String _name = "NMTLH2color8ALLLwr";				String _text = "petite maison nmt"; }
+		{ String _name = "NMTLH2color8ALLTip";				String _text = "Une petite maison NMT sert à loger vos citoyens. 4x5. Coût 24 Bois, 8 Pierres. EFF% de chauffage 80."; }
+		{ String _name = "NMTLH2color9ALL";				String _text = "Petite Maison NMT"; }
+		{ String _name = "NMTLH2color9ALLLwr";				String _text = "petite maison nmt"; }
+		{ String _name = "NMTLH2color9ALLTip";				String _text = "Une petite maison NMT sert à loger vos citoyens. 4x5. Coût 24 Bois, 8 Pierres. EFF% de chauffage 80."; }
+		{ String _name = "NMTLittleHousing2Toolbar";				String _text = "Barre d'outils Petite Maison NMT 2"; }
+		{ String _name = "NMTLittleHousing2ToolbarLwr";				String _text = "barre d'outils petite maison nmt 2"; }
+		{ String _name = "NMTLittleHousing2ToolbarTip";				String _text = "Barre d'outils Petite Maison NMT 2. Ouvrez cette barre d'outils pour accéder aux options de Petite Maison NMT 2."; }
+		{ String _name = "NMTLittleHousingToolbar2";				String _text = "Barre d'outils Petite Maison NMT 2"; }
+		{ String _name = "NMTLittleHousingToolbar2Lwr";				String _text = "barre d'outils petite maison nmt 2"; }
+		{ String _name = "NMTLittleHousingToolbar2Tip";				String _text = "Ouvrez cette barre d'outils pour les options de Petite Maison NMT 2. Astuces : il s'agit d'un ensemble ne contenant qu'un premier étage avec 8 couleurs/textures et 6 modèles chacune. Leur dernière rangée de cases à l'arrière peut être au-dessus de l'eau. Ils auront 5 occupants et un EFF% de chauffage de 70 à 98. Appuyez sur F pour changer de modèle."; }
+		{ String _name = "Niveau2UpgradeButtonTip";				String _text = "Améliorez votre Centre technologique au niveau 2 - Âge du bronze - pour vous permettre d'apprendre de nouvelles technologies et de construire des bâtiments plus avancés."; }
+		{ String _name = "Niveau3UpgradeButtonTip";				String _text = "Améliorez votre Centre technologique au niveau 3 - Âge du fer - pour vous permettre d'apprendre de nouvelles technologies et de construire des bâtiments plus avancés."; }
+		{ String _name = "Niveau4UpgradeButtonTip";				String _text = "Améliorez votre Centre technologique au niveau 4 - Âge médiéval - pour vous permettre d'apprendre de nouvelles technologies et de construire des bâtiments plus avancés."; }
+		{ String _name = "OmeletteRequire";				String _text = "Faire une Omelette [8Œufs +2Oignons +6Champignons]"; }
+		{ String _name = "Parchment";				String _text = "Parchemin"; }
+		{ String _name = "ParchmentMakers";				String _text = "Maison du scribe"; }
+		{ String _name = "ParchmentMakersLwr";				String _text = "maison du scribe"; }
+		{ String _name = "ParchmentMakersTip";				String _text = "Maison du scribe. Le Scribe utilise des Roseaux pour fabriquer des parchemins. Taille : 7x5. Coût : 32 rondins, 12 pierre. Peut fabriquer : 2-3 Parchemins à partir de 4 roseaux. Emploi : 1-2 scribe. Astuces : actuellement seulement destinés à la vente, les Parchemins seront utilisés dans une future extension."; }
+		{ String _name = "ParchmentRequire";				String _text = "Créer du Parchemin [4 Roseaux]"; }
+		{ String _name = "PecanPieRequire";				String _text = "Faire une Tarte aux noix de pécan [Farine +Miel +Noix de pécan]"; }
+		{ String _name = "Pork";				String _text = "Porc"; }
+		{ String _name = "PorkChopRequire";				String _text = "Faire une Côtelette de porc [12 Porc]"; }
+		{ String _name = "ProfessionAlchemist";				String _text = "Alchimiste"; }
+		{ String _name = "ProfessionAlchemistDeath";				String _text = "s'est fait exploser avec de la poudre à canon."; }
+		{ String _name = "ProfessionAlchemistTip";				String _text = "Un Alchimiste utilise divers ingrédients pour fabriquer de la poudre à canon."; }
+		{ String _name = "ProfessionCooper";				String _text = "Tonnelier"; }
+		{ String _name = "ProfessionCooperDeath";				String _text = "est mort du tétanos."; }
+		{ String _name = "ProfessionCooperTip";				String _text = "Un Tonnelier fabrique des tonneaux et des caisses."; }
+		{ String _name = "ProfessionGunsmith";				String _text = "Armurier"; }
+		{ String _name = "ProfessionGunsmithDeath";				String _text = "s'est malheureusement tiré une balle en plein visage."; }
+		{ String _name = "ProfessionGunsmithTip";				String _text = "Un Armurier fabrique des armes à poudre à canon."; }
+		{ String _name = "ProfessionScribe";				String _text = "Scribe"; }
+		{ String _name = "ProfessionScribeDeath";				String _text = "a sombré dans la confusion et la folie, puis est mort."; }
+		{ String _name = "ProfessionScribeTip";				String _text = "Un scribe fabrique des parchemins à partir de roseaux."; }
+		{ String _name = "QuicheRequire";				String _text = "Faire une Quiche [8 Œufs +4 Farine + 4 Fromage]"; }
+		{ String _name = "RKdecorations";				String _text = "Décorations RK"; }
+		{ String _name = "RKdecorationsLwr";				String _text = "décorations RK"; }
+		{ String _name = "RKdecorationsTip";				String _text = "Barre d'outils de décorations RedKetchup."; }
+		{ String _name = "Reeds";				String _text = "Roseaux"; }
+		{ String _name = "ResourcePlusTip";				String _text = "Barre d'outils Ressources avancées. Ouvrez cette barre d'outils pour accéder aux options de bâtiments de ressources avancées."; }
+		{ String _name = "RoastChickenRequire";				String _text = "Poulet rôti [12 Poulet +1 Charbon de bois]"; }
+		{ String _name = "RoastDuckRequire";				String _text = "Canard rôti [12 Viande de canard +1 Charbon de bois]"; }
+		{ String _name = "RoastGooseRequire";				String _text = "Oie rôtie [12 Viande d'oie +1 Charbon de bois]"; }
+		{ String _name = "RoastPheasantRequire";				String _text = "Faisan rôti [12 Viande de faisan +1 Charbon de bois]"; }
+		{ String _name = "Saltpeter";				String _text = "Salpêtre"; }
+		{ String _name = "SaltpeterRequire";				String _text = "Salpêtre"; }
+		{ String _name = "SilverOre";				String _text = "Minerai d'argent"; }
+		{ String _name = "SmokedBearMeat";				String _text = "Viande d'ours fumée"; }
+		{ String _name = "SmokedBearMeatRequire";				String _text = "Fumer la Viande d'ours [12 Viande d'ours +1 Charbon de bois]"; }
+		{ String _name = "SmokedBeefMeat";				String _text = "Viande de bœuf fumée"; }
+		{ String _name = "SmokedBeefMeatRequire";				String _text = "Fumer la Viande de bœuf [12 Bœuf +1 Charbon de bois]"; }
+		{ String _name = "SmokedBisonMeat";				String _text = "Viande de bison fumée"; }
+		{ String _name = "SmokedBisonMeatRequire";				String _text = "Fumer la Viande de bison [12 Viande de bison +1 Charbon de bois]"; }
+		{ String _name = "SmokedBoarMeat";				String _text = "Viande de sanglier fumée"; }
+		{ String _name = "SmokedBoarMeatRequire";				String _text = "Fumer la Viande de sanglier [12 Viande de sanglier +1 Charbon de bois]"; }
+		{ String _name = "SmokedGoatMeat";				String _text = "Viande de chèvre fumée"; }
+		{ String _name = "SmokedGoatMeatRequire";				String _text = "Fumer la Viande de chèvre [12 Viande de chèvre +1 Charbon de bois]"; }
+		{ String _name = "SmokedLambMeat";				String _text = "Viande d'agneau fumée"; }
+		{ String _name = "SmokedLambMeatRequire";				String _text = "Fumer la Viande d'agneau [12 Mouton +1 Charbon de bois]"; }
+		{ String _name = "SmokedPorkMeat";				String _text = "Viande de porc fumée"; }
+		{ String _name = "SmokedPorkMeatRequire";				String _text = "Fumer la Viande de porc [12 Porc +1 Charbon de bois]"; }
+		{ String _name = "SmokedVenisonMeat";				String _text = "Venaison fumée"; }
+		{ String _name = "SmokedVenisonMeatRequire";				String _text = "Fumer la Venaison [12 Venaison +1 Charbon de bois]"; }
+		{ String _name = "Stockfish";				String _text = "Stockfish"; }
+		{ String _name = "StockfishRequire";				String _text = "Faire du Stockfish [12 Poisson]"; }
+		{ String _name = "Stone";				String _text = "Pierre"; }
+		{ String _name = "Sulfur";				String _text = "Soufre"; }
+		{ String _name = "SulfurOre";				String _text = "Minerai de soufre"; }
+		{ String _name = "SulfurRequire";				String _text = "Extraire du Soufre [1 Minerai de soufre]"; }
+		{ String _name = "TechNiv1paper";				String _text = "Certificat Tech Niv1"; }
+		{ String _name = "TechNiv1paperRequire";				String _text = "Certificat Tech Niv1 [1 Parchemin]"; }
+		{ String _name = "TechNiv2paper";				String _text = "Certificat Tech Niv2"; }
+		{ String _name = "TechNiv2paperRequire";				String _text = "Certificat Tech Niv2 [1 Parchemin]"; }
+		{ String _name = "TechNiv3paper";				String _text = "Certificat Tech Niv3"; }
+		{ String _name = "TechNiv3paperRequire";				String _text = "Certificat Tech Niv3 [1 Parchemin]"; }
+		{ String _name = "TechnologyCenterNiv1";				String _text = "Centre technologique Niv1"; }
+		{ String _name = "TechnologyCenterNiv1Lwr";				String _text = "centre technologique niv1"; }
+		{ String _name = "TechnologyCenterNiv1Tip";				String _text = "Centre technologique Niv1 - Âge de pierre - recherchez des technologies et permettez à votre société d'évoluer au niveau 2. Taille : 6x8."; }
+		{ String _name = "TechnologyCenterNiv2";				String _text = "Centre technologique Niv2"; }
+		{ String _name = "TechnologyCenterNiv2Lwr";				String _text = "centre technologique niv2"; }
+		{ String _name = "TechnologyCenterNiv2Tip";				String _text = "Centre technologique Niv2 - Âge du bronze - recherchez des technologies et permettez à votre société d'évoluer au niveau 3. Taille : 6x8."; }
+		{ String _name = "TechnologyCenterNiv3";				String _text = "Centre technologique Niv3"; }
+		{ String _name = "TechnologyCenterNiv3Lwr";				String _text = "centre technologique niv3"; }
+		{ String _name = "TechnologyCenterNiv3Tip";				String _text = "Centre technologique Niv3 - Âge du fer - recherchez des technologies et permettez à votre société d'évoluer au niveau 4. Taille : 6x8."; }
+		{ String _name = "ThunderBomb";				String _text = "Bombe tonnerre"; }
+		{ String _name = "ThunderBombRequire";				String _text = "Bombe tonnerre [2 fer +5 poudre à canon]"; }
+		{ String _name = "TinOre";				String _text = "Minerai d'étain"; }
+		{ String _name = "TinRequire";				String _text = "Minerai d'étain"; }
+		{ String _name = "ToolHugeMap";				String _text = "Carte immense"; }
+		{ String _name = "ToolHugeMapLwr";				String _text = "carte immense"; }
+		{ String _name = "ToolHugeMapTip";				String _text = "Carte immense est la nouvelle vue de carte la plus grande."; }
+		{ String _name = "ToolLargerMap";				String _text = "Grande carte"; }
+		{ String _name = "ToolLargerMapLwr";				String _text = "grande carte"; }
+		{ String _name = "ToolLargerMapTip";				String _text = "Grande carte est une nouvelle vue de carte plus grande."; }
+		{ String _name = "ToolMap";				String _text = "Carte"; }
+		{ String _name = "ToolMapLwr";				String _text = "carte"; }
+		{ String _name = "ToolMapTip";				String _text = "Carte est une vue de carte légèrement plus grande que l'originale. juste un petit peu."; }
+		{ String _name = "ToolbarAdvancedStorage";				String _text = "Barre d'outils Stockage avancé"; }
+		{ String _name = "ToolbarAdvancedStorageLwr";				String _text = "barre d'outils stockage avancé"; }
+		{ String _name = "ToolbarResourcePlus";				String _text = "Barre d'outils Ressources avancées"; }
+		{ String _name = "ToolbarResourcePlusLwr";				String _text = "barre d'outils ressources avancées"; }
+		{ String _name = "Venison";				String _text = "Venaison"; }
+		{ String _name = "WinterCoat";				String _text = "Manteau d'hiver"; }
+		{ String _name = "Wood";				String _text = "Rondin"; }
+		{ String _name = "Wool";				String _text = "Laine"; }
 
 	]
 }

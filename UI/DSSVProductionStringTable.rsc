@@ -365,6 +365,24 @@ StringTable graphTypes
 		{ String _name = "Type20";			String _text = "Divers"; }
 		{ String _name = "Type21";			String _text = "Réservé"; }
 		{ String _name = "Type22";			String _text = "Réservé"; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "CandlesBeeswaxRequire";				String _text = "4-5 Bougies (3 Cire d'abeille + 1 Bois de chauffage)"; }
+		{ String _name = "CandlesTallowRequire";				String _text = "4-5 Bougies (3 Suif + 1 Bois de chauffage)"; }
+		{ String _name = "CopperToolRequire";				String _text = "1-2 Outils en cuivre (1 Cuivre + 1 Rondin)"; }
+		{ String _name = "DSSVBannock1Require";				String _text = "18-20 Galettes (17 Blé + 1 Eau)"; }
+		{ String _name = "DSSVBannock2Require";				String _text = "18-20 Galettes (17 Maïs + 1 Eau)"; }
+		{ String _name = "DSSVPasture1";				String _text = "Pâturage de village, clôture en rondins"; }
+		{ String _name = "DSSVPasture1Lwr";				String _text = "pâturage de village, clôture en rondins"; }
+		{ String _name = "DSSVPasture1Tip";				String _text = "Un pâturage clôturé en rondins pour le bétail. Une texture de sol semi-transparente. Taille des tuiles = 7x7min - 34x34max. 1 Rondin + 1 travail pour construire par tuile."; }
+		{ String _name = "DSSVProdRemoveButton";				String _text = "Retirer"; }
+		{ String _name = "DSSVProdRemoveButtonLwr";				String _text = "retirer"; }
+		{ String _name = "DSSVProdRemoveButtonTip";				String _text = "Retirer"; }
+		{ String _name = "FishingGearRequireCopper";				String _text = "7-8 Outils : Pêcheur (1 Cuivre + 3 Rondins)"; }
+		{ String _name = "HuntingGearRequireCopper";				String _text = "7-8 Outils : Chasseur (1 Cuivre + 3 Rondins)"; }
+		{ String _name = "ToolStonecutterRequire";				String _text = "5-8 Outils : Tailleur de pierre (1 Fer + 1 Charbon de bois + 1 Rondin)"; }
+		{ String _name = "WagonPartsRequire";				String _text = "1-2 Pièces de chariot (5 Rondins + 2 Fer)"; }
+
 	]
 }
 

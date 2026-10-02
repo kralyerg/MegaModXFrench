@@ -134,5 +134,26 @@ StringTable resource
 		{ String _name = "SeedOilPecanRequire";							String _text = "Huile de Pépins [25 Noix de Pécan + 1 Amphore]"; }
 		{ String _name = "SeedOilWalnutRequire";						String _text = "Huile de Pépins [25 Noix + 1 Amphore]"; }
 		{ String _name = "VegetableOilSunflowerRequire";				String _text = "Huile Végétale [25 Graines de Tournesol + 1 Amphore]"; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "Brick";				String _text = "Brique"; }
+		{ String _name = "Charcoal";				String _text = "Charbon de bois"; }
+		{ String _name = "Custom5Limit";				String _text = "Limite de construction"; }
+		{ String _name = "Custom5LimitShort";				String _text = "Construction"; }
+		{ String _name = "Custom5LimitTip";				String _text = "Contrôle la quantité de matériaux de construction stockés. Une fois cette limite atteinte, la production cessera."; }
+		{ String _name = "EBSVBrickCharCoalRequire";				String _text = "Brique [10 Argile + 3 Charbon de bois]"; }
+		{ String _name = "EBSVBrickCoalRequire";				String _text = "Brique [10 Argile + 3 Charbon]"; }
+		{ String _name = "EBSVGlassCharCoalRequire";				String _text = "Verre [23 Sable + 3 Charbon de bois]"; }
+		{ String _name = "EBSVGlassCoalRequire";				String _text = "Verre [23 Sable + 3 Charbon]"; }
+		{ String _name = "EBSVLumberRequire";				String _text = "Planches [4 Bois]"; }
+		{ String _name = "EBSVWorkShop";				String _text = "Atelier du village"; }
+		{ String _name = "EBSVWorkShopLwr";				String _text = "atelier du village"; }
+		{ String _name = "EBSVWorkShopTip";				String _text = "L'Atelier du village produit des Briques, du Verre et des Planches. Jusqu'à 2 Artisans peuvent y être employés pour produire 6 à 8 Briques à partir de 10 Argile et de 3 Charbon ou 3 Charbon de bois. 7 à 8 Verre à partir de 23 Sable et de 3 Charbon ou 3 Charbon de bois. 4 à 5 Planches à partir de 4 rondins. Cycles de construction : 94. 2 variantes de couleur à touche F."; }
+		{ String _name = "Glass";				String _text = "Verre"; }
+		{ String _name = "Lumber";				String _text = "Planches"; }
+		{ String _name = "ProfessionCraftsman";				String _text = "Artisan"; }
+		{ String _name = "ProfessionCraftsmanDeath";				String _text = "a été écrasé par un tas de briques qui s'est effondré."; }
+		{ String _name = "ProfessionCraftsmanTip";				String _text = "L'Artisan produit du Verre, des Briques et des Planches à l'Atelier."; }
+
 	]
 }		

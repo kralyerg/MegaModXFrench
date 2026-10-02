@@ -403,6 +403,14 @@ StringTable resource
 
 // -------------------------------------------------------------------------------------------------------------
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "NMTReedsFarm";				String _text = "Ferme de roseaux"; }
+		{ String _name = "NMTReedsFarmLwr";				String _text = "ferme de roseaux"; }
+		{ String _name = "NMTReedsFarmRequire";				String _text = "Roseaux"; }
+		{ String _name = "NMTReedsFarmTip";				String _text = "Ferme de roseaux des quais NMT : un lieu de travail où l'on peut cultiver des roseaux dans votre zone de quais. Taille : 6x7. Coût : 36 rondins. Emploie 1 à 3 Fermiers. Astuces : ne nécessite pas de graines. Veuillez garder l'avant de ce bâtiment libre pour ses sacs de nourriture et ne pas l'utiliser comme quai de passage."; }
+		{ String _name = "Rice";				String _text = "Riz"; }
+
 	]
 }
 

@@ -205,5 +205,38 @@ StringTable resource
 		{ String _name = "RKTrainingCampTrashLwr";			String _text = "corbeille"; }
 		{ String _name = "RKTrainingCampTrashTip";			String _text = "Met cet élément du camp d'entraînement à la corbeille et le retire."; }
 		{ String _name = "RKTrainingCampTrashUpgradeTip";		String _text = "Met cet élément du camp d'entraînement à la corbeille et le retire."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "RKMCHorse1b";				String _text = "Cheval"; }
+		{ String _name = "RKMCHorse1bLwr";				String _text = "cheval"; }
+		{ String _name = "RKMCHorse1bTip";				String _text = "Cheval décoratif à 45 degrés. (fantôme)"; }
+		{ String _name = "RKMCHorse2b";				String _text = "Cheval"; }
+		{ String _name = "RKMCHorse2bLwr";				String _text = "cheval"; }
+		{ String _name = "RKMCHorse2bTip";				String _text = "Cheval décoratif à 45 degrés. (fantôme)"; }
+		{ String _name = "RKMCHorse3b";				String _text = "Cheval"; }
+		{ String _name = "RKMCHorse3bLwr";				String _text = "cheval"; }
+		{ String _name = "RKMCHorse3bTip";				String _text = "Cheval décoratif à 45 degrés. (fantôme)"; }
+		{ String _name = "RKMCHorse4b";				String _text = "Cheval"; }
+		{ String _name = "RKMCHorse4bLwr";				String _text = "cheval"; }
+		{ String _name = "RKMCHorse4bTip";				String _text = "Cheval décoratif à 45 degrés. (fantôme)"; }
+		{ String _name = "RKMCHorse5";				String _text = "Cheval"; }
+		{ String _name = "RKMCHorse5Lwr";				String _text = "cheval"; }
+		{ String _name = "RKMCHorse5Tip";				String _text = "Cheval décoratif. (fantôme)"; }
+		{ String _name = "RKMCHorse5b";				String _text = "Cheval"; }
+		{ String _name = "RKMCHorse5bLwr";				String _text = "cheval"; }
+		{ String _name = "RKMCHorse5bTip";				String _text = "Cheval décoratif à 45 degrés. (fantôme)"; }
+		{ String _name = "RKMCHorse6";				String _text = "Cheval"; }
+		{ String _name = "RKMCHorse6Lwr";				String _text = "cheval"; }
+		{ String _name = "RKMCHorse6Tip";				String _text = "Cheval décoratif. (fantôme)"; }
+		{ String _name = "RKMCHorse6b";				String _text = "Cheval"; }
+		{ String _name = "RKMCHorse6bLwr";				String _text = "cheval"; }
+		{ String _name = "RKMCHorse6bTip";				String _text = "Cheval décoratif à 45 degrés. (fantôme)"; }
+		{ String _name = "RKMChorses1toolbar";				String _text = "Barre d'outils Chevaux 1"; }
+		{ String _name = "RKMChorses1toolbarLwr";				String _text = "barre d'outils chevaux 1"; }
+		{ String _name = "RKMChorses1toolbarTip";				String _text = "Ouvrez la 'barre d'outils Chevaux 1 du camp d'entraînement' pour les options."; }
+		{ String _name = "RKMChorses2toolbar";				String _text = "Barre d'outils Chevaux 2 (angle 45)"; }
+		{ String _name = "RKMChorses2toolbarLwr";				String _text = "barre d'outils chevaux 2 (angle 45)"; }
+		{ String _name = "RKMChorses2toolbarTip";				String _text = "Ouvrez la 'barre d'outils Chevaux 2 (angle 45) du camp d'entraînement' pour les options."; }
+
 	]
 }

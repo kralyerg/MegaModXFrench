@@ -25,5 +25,24 @@ StringTable resource
 		{ String _name = "Custom7Limit";					String _text = "Limite divers"; }
 		{ String _name = "Custom7LimitShort";				String _text = "Divers"; }
 		{ String _name = "Custom7LimitTip";					String _text = "Controle la quantite d'objets divers stockes. Une fois cette limite atteinte, la production s'arrete."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "Amphora";				String _text = "Amphore"; }
+		{ String _name = "Custom0Limit";				String _text = "Limite d'artisanat"; }
+		{ String _name = "Custom0LimitShort";				String _text = "Artisanat"; }
+		{ String _name = "Custom0LimitTip";				String _text = "Contrôle la quantité d'objets artisanaux stockés. Une fois cette limite atteinte, la production cessera."; }
+		{ String _name = "Flax";				String _text = "Lin"; }
+		{ String _name = "LinSeedOilFlaxRequire";				String _text = "Huile de lin [25 Lin + 1 Amphore]"; }
+		{ String _name = "LinseedOil";				String _text = "Huile de lin"; }
+		{ String _name = "SeedFlax";				String _text = "Graine de lin"; }
+		{ String _name = "SeedOil";				String _text = "Huile de graines"; }
+		{ String _name = "SeedOilPecanRequire";				String _text = "Huile de graines [25 Noix de pécan + 1 Amphore]"; }
+		{ String _name = "SeedOilWalnutRequire";				String _text = "Huile de graines [25 Noix + 1 Amphore]"; }
+		{ String _name = "SeedSunflower";				String _text = "Graine de tournesol"; }
+		{ String _name = "Sunflower";				String _text = "Tournesol"; }
+		{ String _name = "SunflowerK";				String _text = "Graines décortiquées"; }
+		{ String _name = "VegetableOil";				String _text = "Huile végétale"; }
+		{ String _name = "VegetableOilSunflowerRequire";				String _text = "Huile végétale [25 Graines décortiquées + 1 Amphore]"; }
+
 	]
 }

@@ -111,6 +111,76 @@ StringTable resource
 
 
 																
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "BronzeToolRequire";				String _text = "[O] Outil en bronze [1 Bronze + 1 Rondin]"; }
+		{ String _name = "ButtonMegaMod";				String _text = "[O] Détails MegaMod"; }
+		{ String _name = "CCStatue1";				String _text = "[O] Sculpture en pierre"; }
+		{ String _name = "CCStatue1Lwr";				String _text = "[O] Sculpture en pierre"; }
+		{ String _name = "CCStatue1Tip";				String _text = "[O] Quelques sculptures en pierre."; }
+		{ String _name = "CCStatue2";				String _text = "[O] Sculpture de la charte en pierre"; }
+		{ String _name = "CCStatue2Lwr";				String _text = "[O] Sculpture de la charte en pierre"; }
+		{ String _name = "CCStatue2Tip";				String _text = "[O] Le maire monté sur un chameau"; }
+		{ String _name = "CCStatue3";				String _text = "[O] Sculpture en bois"; }
+		{ String _name = "CCStatue3Lwr";				String _text = "[O] Sculpture en bois"; }
+		{ String _name = "CCStatue3Tip";				String _text = "[O] Une série de sculptures en bois"; }
+		{ String _name = "CCStatueIron1";				String _text = "[O] Sculpture en fer"; }
+		{ String _name = "CCStatueIron1Lwr";				String _text = "[O] Sculpture en fer"; }
+		{ String _name = "CCStatueIron1Tip";				String _text = "[O] Une sculpture de la cloche du tribunal, symbolisant un traitement équitable pour chaque colon."; }
+		{ String _name = "CCStatueJade1";				String _text = "[O] Sculpture en jade blanc"; }
+		{ String _name = "CCStatueJade1Lwr";				String _text = "[O] Sculpture en jade blanc"; }
+		{ String _name = "CCStatueJade1Tip";				String _text = "[O] Des influences venues de loin ont façonné cette sculpture"; }
+		{ String _name = "CCStatueMarble1";				String _text = "[O] Sculpture en marbre"; }
+		{ String _name = "CCStatueMarble1Lwr";				String _text = "[O] Sculpture en marbre"; }
+		{ String _name = "CCStatueMarble1Tip";				String _text = "[O] Des influences venues de loin ont façonné cette sculpture"; }
+		{ String _name = "CarbonSteelToolRequire";				String _text = "[O] Outil en acier au carbone [1 Rondin + 2 Fer + 2 Charbon]"; }
+		{ String _name = "ChooChoo";				String _text = "[O] Train jouet fantôme"; }
+		{ String _name = "ChooChooLwr";				String _text = "[O] Train jouet"; }
+		{ String _name = "ChooChooTip";				String _text = "[O] Objet du train jouet fantôme."; }
+		{ String _name = "ChooTrain1";				String _text = "[O] Train jouet fantôme : Locomotive"; }
+		{ String _name = "ChooTrain1Lwr";				String _text = "[O] Train jouet : Locomotive"; }
+		{ String _name = "ChooTrain1Tip";				String _text = "[O] Train jouet fantôme : Locomotive modèle 1."; }
+		{ String _name = "ChooTrain2";				String _text = "[O] Train jouet fantôme : Locomotive"; }
+		{ String _name = "ChooTrain2Lwr";				String _text = "[O] Train jouet : Locomotive"; }
+		{ String _name = "ChooTrain2Tip";				String _text = "[O] Train jouet fantôme : Locomotive modèle 2."; }
+		{ String _name = "ChooWagon1";				String _text = "[O] Train jouet fantôme : Wagon de nourriture"; }
+		{ String _name = "ChooWagon1Lwr";				String _text = "[O] Train jouet : Wagon de nourriture"; }
+		{ String _name = "ChooWagon1Tip";				String _text = "[O] Train jouet fantôme : Wagon de nourriture."; }
+		{ String _name = "ChooWagon2";				String _text = "[O] Train jouet fantôme : Wagon de marchandises"; }
+		{ String _name = "ChooWagon2Lwr";				String _text = "[O] Train jouet : Wagon de marchandises"; }
+		{ String _name = "ChooWagon2Tip";				String _text = "[O] Train jouet fantôme : Wagon de marchandises."; }
+		{ String _name = "ChooWagon3";				String _text = "[O] Train jouet fantôme : Wagon de matériaux"; }
+		{ String _name = "ChooWagon3Lwr";				String _text = "[O] Train jouet : Wagon de matériaux"; }
+		{ String _name = "ChooWagon3Tip";				String _text = "[O] Train jouet fantôme : Wagon de matériaux."; }
+		{ String _name = "ChooWagon4";				String _text = "[O] Train jouet fantôme : Wagon de passagers"; }
+		{ String _name = "ChooWagon4Lwr";				String _text = "[O] Train jouet : Wagon de passagers"; }
+		{ String _name = "ChooWagon4Tip";				String _text = "[O] Train jouet fantôme : Wagon de passagers."; }
+		{ String _name = "ChooWagon5";				String _text = "[O] Train-jouet fantôme : wagon arrière"; }
+		{ String _name = "ChooWagon5Lwr";				String _text = "[o] train-jouet : wagon arrière"; }
+		{ String _name = "ChooWagon5Tip";				String _text = "[O] Train-jouet fantôme : wagon arrière."; }
+		{ String _name = "ChooWagon6";				String _text = "[O] Train-jouet fantôme : chariot à bras"; }
+		{ String _name = "ChooWagon6Lwr";				String _text = "[o] train-jouet : chariot à bras"; }
+		{ String _name = "ChooWagon6Tip";				String _text = "[O] Train-jouet fantôme : chariot à bras."; }
+		{ String _name = "CrudeToolRequire";				String _text = "[O] Outil grossier [1 rondin + 1 minerai de fer]"; }
+		{ String _name = "GemToolRequire";				String _text = "[O] Outil en gemme [1 rondin + 1 gemme polie]"; }
+		{ String _name = "HardenedToolRequire";				String _text = "[O] Outil trempé [1 rondin + 2 fer + 1 charbon]"; }
+		{ String _name = "IronToolRequire";				String _text = "[O] Outil en fer [1 rondin + 1 fer]"; }
+		{ String _name = "LionStatue";				String _text = "[O] Sculpture en bronze"; }
+		{ String _name = "LionStatueLwr";				String _text = "[O] Sculpture en bronze"; }
+		{ String _name = "LionStatueTip";				String _text = "[O] Une série de sculptures en bronze élégantes et puissantes. Nécessite un sculpteur de pierre et un sculpteur de bronze pour être construite. Appuyez sur F pour changer de style."; }
+		{ String _name = "MusketRequire";				String _text = "[O] Mousquet [Fer + Rondin + Combustible de fourneau]"; }
+		{ String _name = "Quote1";				String _text = "[O] Le seul sens qu'il reste à ta vie, c'est de servir d'avertissement aux autres pour qu'ils ne te ressemblent pas."; }
+		{ String _name = "Quote2";				String _text = "[O] Le secret le plus sombre de la colonie, c'est que beaucoup de gens croient encore vivre sous la domination d'une civilisation plus avancée"; }
+		{ String _name = "Quote3";				String _text = "[O] Bien sûr que c'est un putain de cheval !"; }
+		{ String _name = "QuoteIron1";				String _text = "[O] Nous devons prendre conscience que nous serons une cité sur une colline. Les yeux de tous sont fixés sur nous. - John Winthrop."; }
+		{ String _name = "QuoteJade1";				String _text = "[O] Tous les Bouddhas, les Vénérés du monde, naissent parmi les hommes, et non du ciel. - Shakyamuni"; }
+		{ String _name = "QuoteMarble1";				String _text = "[O] En réalité, l'ange existait déjà dans le marbre, je l'ai simplement libéré de sa prison de marbre. - Michel-Ange."; }
+		{ String _name = "RoughToolRequire";				String _text = "[O] Outil grossier [1 rondin + 1 minerai de fer]"; }
+		{ String _name = "SteelToolRequire";				String _text = "[O] Outil en acier [1 rondin + 1 fer + 1 charbon]"; }
+		{ String _name = "StoneToolRequire";				String _text = "[O] Outil en pierre [1 rondin + 1 pierre]"; }
+		{ String _name = "ToolRequire";				String _text = "[O] Outil en fer [1 rondin + 1 fer]"; }
+		{ String _name = "WoodToolRequire";				String _text = "[O] Outil en bois [2 rondins]"; }
+
 	]
 }
 

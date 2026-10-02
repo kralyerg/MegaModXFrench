@@ -37,5 +37,11 @@ StringTable resource
 		{ String _name = "EBFarmStand";						String _text = "Étal de ferme"; }
 		{ String _name = "EBFarmStandLwr";					String _text = "étal de ferme"; }
 		{ String _name = "EBFarmStandTip";					String _text = "L'Étal de ferme offre une zone locale où les citoyens peuvent récupérer nourriture, combustible, outils, textiles, tissus et vêtements. Jusqu'à 2 vendeurs peuvent y être employés. Cycle de construction : 32."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "ToolbarMarkets";				String _text = "Barre d'outils des marchés"; }
+		{ String _name = "ToolbarMarketsLwr";				String _text = "barre d'outils des marchés"; }
+		{ String _name = "ToolbarMarketsTip";				String _text = "Barre d'outils des marchés."; }
+
 	]
 }

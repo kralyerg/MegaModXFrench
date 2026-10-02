@@ -34,5 +34,14 @@ StringTable resource
 		{	String _name = "IronOre";		String _text = "Minerai de fer"; }
 		{	String _name = "Candles";		String _text = "Bougies"; }
 		{	String _name = "Lumber";		String _text = "Bois d'œuvre"; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "CoalLimit";				String _text = "Charbon (Matériaux)"; }
+		{ String _name = "CoalLimitShort";				String _text = "Charbon"; }
+		{ String _name = "CoalLimitTip";				String _text = "Contrôle la quantité de Charbon (Matériaux) stockée. Une fois cette limite atteinte, la production de tous les Matériaux cessera."; }
+		{ String _name = "IronOreLimit";				String _text = "Minerai de fer (Matériaux)"; }
+		{ String _name = "IronOreLimitShort";				String _text = "Minerai de fer"; }
+		{ String _name = "IronOreLimitTip";				String _text = "Contrôle la quantité de Minerai de fer (Matériaux) stockée. Une fois cette limite atteinte, la production de tous les Matériaux cessera."; }
+
 	]
 }

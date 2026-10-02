@@ -225,5 +225,47 @@ StringTable resource
 		{ String _name = "MerchantSVIndustry";			String _text = "Marchand industriel"; }		//All construction and materials.
 		
 		
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "ClearCopper";				String _text = "Collecter le minerai de cuivre"; }
+		{ String _name = "ClearCopperLwr";				String _text = "collecter le minerai de cuivre"; }
+		{ String _name = "ClearCopperTip";				String _text = "Collecte tout le minerai de cuivre dans la zone sélectionnée."; }
+		{ String _name = "Copper";				String _text = "Cuivre"; }
+		{ String _name = "CopperOre";				String _text = "Minerai de cuivre"; }
+		{ String _name = "CopperOreRequire";				String _text = "Minerai de cuivre"; }
+		{ String _name = "Custom5Limit";				String _text = "Limite de construction"; }
+		{ String _name = "Custom5LimitShort";				String _text = "constructiont"; }
+		{ String _name = "Custom5LimitTip";				String _text = "Contrôle la quantité de Matériaux de construction stockés. Une fois cette limite atteinte, la production cessera."; }
+		{ String _name = "EBSVHousing4x4Dark";				String _text = "Barre d'outils des maisons en bois foncé 4x4"; }
+		{ String _name = "EBSVHousing4x4DarkLwr";				String _text = "barre d'outils des maisons en bois foncé 4x4"; }
+		{ String _name = "EBSVHousing4x4DarkTip";				String _text = "Barre d'outils des maisons en bois de village 4x4, couleur foncée."; }
+		{ String _name = "EBSVHousing4x4Light";				String _text = "Barre d'outils des maisons en bois clair 4x4"; }
+		{ String _name = "EBSVHousing4x4LightLwr";				String _text = "barre d'outils des maisons en bois clair 4x4"; }
+		{ String _name = "EBSVHousing4x4LightTip";				String _text = "Barre d'outils des maisons en bois de village 4x4, couleur claire."; }
+		{ String _name = "EBSVHousing4x4Warm";				String _text = "Barre d'outils des maisons en bois moyen 4x4"; }
+		{ String _name = "EBSVHousing4x4WarmLwr";				String _text = "barre d'outils des maisons en bois moyen 4x4"; }
+		{ String _name = "EBSVHousing4x4WarmTip";				String _text = "Barre d'outils des maisons en bois de village 4x4, couleur moyenne."; }
+		{ String _name = "EBSVHousingDark3x4A";				String _text = "Maison en bois foncé 3x4"; }
+		{ String _name = "EBSVHousingDark3x4ALwr";				String _text = "maison en bois foncé 3x4"; }
+		{ String _name = "EBSVHousingDark3x4ATip";				String _text = "La Maison en bois de village 3x4, couleur foncée, offre un lieu de vie aux citoyens pour vivre, manger, stocker de la nourriture et se tenir au chaud. Jusqu'à 4 personnes peuvent vivre dans la Maison en bois. Stockage : 900. Cycles de construction : 24. 5 variantes de toit de chaume à touche F."; }
+		{ String _name = "EBSVHousingLight3x4A";				String _text = "Maison en bois clair 3x4"; }
+		{ String _name = "EBSVHousingLight3x4ALwr";				String _text = "maison en bois clair 3x4"; }
+		{ String _name = "EBSVHousingLight3x4ATip";				String _text = "La Maison en bois de village 3x4, couleur claire, offre un lieu de vie aux citoyens pour vivre, manger, stocker de la nourriture et se tenir au chaud. Jusqu'à 4 personnes peuvent vivre dans la Maison en bois. Stockage : 900. Cycles de construction : 24. 5 variantes de toit de chaume à touche F."; }
+		{ String _name = "EBSVHousingWarm3x4A";				String _text = "Maison en bois moyen 3x4"; }
+		{ String _name = "EBSVHousingWarm3x4ALwr";				String _text = "maison en bois moyen 3x4"; }
+		{ String _name = "EBSVHousingWarm3x4ATip";				String _text = "La Maison en bois de village 3x4, couleur moyenne, offre un lieu de vie aux citoyens pour vivre, manger, stocker de la nourriture et se tenir au chaud. Jusqu'à 4 personnes peuvent vivre dans la Maison en bois. Stockage : 900. Cycles de construction : 24. 5 variantes de toit de chaume à touche F."; }
+		{ String _name = "SVOreToCopperCharcoalRequire";				String _text = "Cuivre [2 Minerai de cuivre + 1 Charbon de bois]"; }
+		{ String _name = "SVOreToCopperCoalRequire";				String _text = "Cuivre [2 Minerai de cuivre + 1 Charbon]"; }
+		{ String _name = "SVOreToCopperFirewoodRequire";				String _text = "Cuivre [2 Minerai de cuivre + 2 Bois de chauffage]"; }
+		{ String _name = "ToolbarEBSVHousing3x4Dark";				String _text = "Barre d'outils des maisons en bois foncé 3x4"; }
+		{ String _name = "ToolbarEBSVHousing3x4DarkLwr";				String _text = "barre d'outils des maisons en bois foncé 3x4"; }
+		{ String _name = "ToolbarEBSVHousing3x4DarkTip";				String _text = "Barre d'outils des maisons en bois de village 3x4, couleur foncée."; }
+		{ String _name = "ToolbarEBSVHousing3x4Light";				String _text = "Barre d'outils des maisons en bois clair 3x4"; }
+		{ String _name = "ToolbarEBSVHousing3x4LightLwr";				String _text = "barre d'outils des maisons en bois clair 3x4"; }
+		{ String _name = "ToolbarEBSVHousing3x4LightTip";				String _text = "Barre d'outils des maisons en bois de village 3x4, couleur claire."; }
+		{ String _name = "ToolbarEBSVHousing3x4Warm";				String _text = "Barre d'outils des maisons en bois moyen 3x4"; }
+		{ String _name = "ToolbarEBSVHousing3x4WarmLwr";				String _text = "barre d'outils des maisons en bois moyen 3x4"; }
+		{ String _name = "ToolbarEBSVHousing3x4WarmTip";				String _text = "Barre d'outils des maisons en bois de village 3x4, couleur moyenne."; }
+
 	]
 }

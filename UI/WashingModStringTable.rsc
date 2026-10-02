@@ -35,6 +35,15 @@ StringTable resource
 		{ String _name = "WMRemoveLwr";					String _text = "retirer"; }
 		{ String _name = "WMRemoveTip";					String _text = "Retirer l'objet"; }
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "WMRemoveBucket";				String _text = "[WM] Retirer le seau à lessive"; }
+		{ String _name = "WMRemoveBucketLwr";				String _text = "[wm] retirer le seau à lessive"; }
+		{ String _name = "WMRemoveBucketTip";				String _text = "Retire le seau"; }
+		{ String _name = "WMRemoveLaundry";				String _text = "[WM] Retirer la corde à linge"; }
+		{ String _name = "WMRemoveLaundryLwr";				String _text = "[wm] retirer la corde à linge"; }
+		{ String _name = "WMRemoveLaundryTip";				String _text = "Décroche tout le linge lavé"; }
+
 	]
 }
 

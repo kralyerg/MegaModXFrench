@@ -27,5 +27,11 @@ StringTable resource
 
 		{ String _name = "EasyName";			String _text = "Jardin Potager Facile"; }
 		{ String _name = "EasyDesc";			String _text = "Une partie facile commence avec six familles. Une grande quantité de vêtements, de nourriture, de bois de chauffage, de matériaux de construction et d'outils est fournie. Les maisons et les zones de stockage ont déjà été construites. Des graines pour les champs et les vergers sont disponibles ainsi qu'un troupeau de bétail."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "ProfessionHomeGrower";				String _text = "Jardinier"; }
+		{ String _name = "ProfessionHomeGrowerDeath";				String _text = "Gravement coupé, mort d'une septicémie."; }
+		{ String _name = "ProfessionHomeGrowerTip";				String _text = "Jardinier"; }
+
 	]
 }

@@ -44,5 +44,11 @@ StringTable resource
 		{ String _name = "mpgeneral";				String _text = "Marchandises générales"; }
 		{ String _name = "mpgeneralLwr";			String _text = "marchandises générales"; }
 		{ String _name = "mpgeneralTip";			String _text = "Herbes Outils Vêtements Bois de chauffage"; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "marketpuzzle";				String _text = "[MK] Marché puzzle"; }
+		{ String _name = "marketpuzzleLwr";				String _text = "[MK] Marché puzzle"; }
+		{ String _name = "marketpuzzleTip";				String _text = "Marché puzzle"; }
+
 	]
 }

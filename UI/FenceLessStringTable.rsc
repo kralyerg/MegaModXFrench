@@ -9,6 +9,12 @@ StringTable resource
 		{ String _name = "FenceLess2";				String _text = "Pâturage sans Clôturé"; }
 		{ String _name = "FenceLess2Lwr";			String _text = "pâturage sans clôturé"; }
 		{ String _name = "FenceLess2Tip";			String _text = "Buissons"; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "FenceLess";				String _text = "[FL] Pâturage sans clôture"; }
+		{ String _name = "FenceLessLwr";				String _text = "[FL] Pâturage sans clôture"; }
+		{ String _name = "FenceLessTip";				String _text = "Nouvel abri"; }
+
 	]
 }
 

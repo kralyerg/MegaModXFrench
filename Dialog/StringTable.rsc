@@ -801,7 +801,7 @@ StringTable mainMenu
 		{ String _name = "Input"; String _text = "Contrôles"; }
 		{ String _name = "Game"; String _text = "Jeu"; }
 		{ String _name = "Renderer"; String _text = "Moteur de rendu"; }
-		{ String _name = "Adapter"; String _text = "Carte graphique"; }
+		{ String _name = "Adapter"; String _text = "Adaptateur"; }
 		{ String _name = "Refresh"; String _text = "Taux de rafraîchissement"; }
 		{ String _name = "Resolution"; String _text = "Résolution"; }
 		{ String _name = "Antialiasing"; String _text = "Anticrénelage"; }
@@ -1627,20 +1627,20 @@ StringTable keyNames
 		{ String _name = "Mouse10"; String _text = "Mouse 7"; }
 		{ String _name = "Mouse11"; String _text = "Mouse 8"; }
 		{ String _name = "Mouse12"; String _text = "Molette de la souris"; }
-		{ String _name = "Gamepad0"; String _text = "Button 0"; }
-		{ String _name = "Gamepad1"; String _text = "Button 1"; }
-		{ String _name = "Gamepad2"; String _text = "Button 2"; }
-		{ String _name = "Gamepad3"; String _text = "Button 3"; }
+		{ String _name = "Gamepad0"; String _text = "Bouton 0"; }
+		{ String _name = "Gamepad1"; String _text = "Bouton 1"; }
+		{ String _name = "Gamepad2"; String _text = "Bouton 2"; }
+		{ String _name = "Gamepad3"; String _text = "Bouton 3"; }
 		{ String _name = "Gamepad4"; String _text = "Croix directionnelle gauche"; }
 		{ String _name = "Gamepad5"; String _text = "Croix directionnelle droite"; }
 		{ String _name = "Gamepad6"; String _text = "Croix directionnelle haut"; }
 		{ String _name = "Gamepad7"; String _text = "Croix directionnelle bas"; }
-		{ String _name = "Gamepad8"; String _text = "Button L1"; }
-		{ String _name = "Gamepad9"; String _text = "Button L2"; }
-		{ String _name = "Gamepad10"; String _text = "Button L3"; }
-		{ String _name = "Gamepad11"; String _text = "Button R1"; }
-		{ String _name = "Gamepad12"; String _text = "Button R2"; }
-		{ String _name = "Gamepad13"; String _text = "Button R3"; }
+		{ String _name = "Gamepad8"; String _text = "Bouton L1"; }
+		{ String _name = "Gamepad9"; String _text = "Bouton L2"; }
+		{ String _name = "Gamepad10"; String _text = "Bouton L3"; }
+		{ String _name = "Gamepad11"; String _text = "Bouton R1"; }
+		{ String _name = "Gamepad12"; String _text = "Bouton R2"; }
+		{ String _name = "Gamepad13"; String _text = "Bouton R3"; }
 		{ String _name = "Gamepad14"; String _text = "Stick gauche X"; }
 		{ String _name = "Gamepad15"; String _text = "Stick gauche Y"; }
 		{ String _name = "Gamepad16"; String _text = "Stick droit X"; }

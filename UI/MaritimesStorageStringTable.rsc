@@ -23,5 +23,9 @@ StringTable resource
 		{ String _name = "MaritimesToolShedLwr";				String _text = "cabane à outils"; }
 		{ String _name = "MaritimesToolShedTip";				String _text = "Une cabane à outils, 5 variantes F, capacité de 200 unités. Stocke des outils."; }
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "Lumber";				String _text = "Bois d'œuvre"; }
+
 	]	
 }

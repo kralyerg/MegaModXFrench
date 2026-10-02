@@ -28,6 +28,13 @@ StringTable resource
 		{ String _name = "ProfessionDairymanTip";		String _text = "Un laitier apporte le lait à une crémerie et fabrique du yaourt, de la crème et du fromage."; }
 		{ String _name = "ProfessionDairymanDeath";		String _text = "a bu du mauvais lait et en est mort."; }
 
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "MilkyCows";				String _text = "Vaches laitières"; }
+		{ String _name = "RedCreamery";				String _text = "[RC] Crèmerie Red"; }
+		{ String _name = "RedCreameryLwr";				String _text = "[rc] crèmerie red"; }
+		{ String _name = "RedCreameryTip";				String _text = "La crèmerie Red permet de fabriquer du fromage, de la crème, du beurre et du yaourt. Coûte 48 bois et 12 pierre."; }
+
 	]
 }
 

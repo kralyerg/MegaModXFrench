@@ -160,5 +160,104 @@ StringTable resource
 		{ String _name = "DSThompsonTradeDecoBalePole";			String _text = "Botte de Foin"; }
 		{ String _name = "DSThompsonTradeDecoBalePoleLwr";		String _text = "quai commercial thompson"; }
 		{ String _name = "DSThompsonTradeDecoBalePoleTip";		String _text = "une botte de foin decorative fantôme. Gratuit à construire. Supprimer via le menu UI de l'objet."; }
+
+		// --- merged from Backlog archive comparison, 2026-10-01 ---
+		{ String _name = "AnimalsUpLeftTxt01";				String _text = "Option d'amélioration"; }
+		{ String _name = "AnimalsUpLeftTxt02";				String _text = "améliorer en un lieu de stockage."; }
+		{ String _name = "AnimalsUpLeftTxt03";				String _text = "toutes les nourritures et comestibles,"; }
+		{ String _name = "AnimalsUpLeftTxt04";				String _text = "(fruit, légume, céréale, protéine),"; }
+		{ String _name = "AnimalsUpLeftTxt05";				String _text = "outils et vêtements, verre,"; }
+		{ String _name = "AnimalsUpLeftTxt06";				String _text = "objets artisanaux et ustensiles,"; }
+		{ String _name = "AnimalsUpLeftTxt07";				String _text = "herbes et médicaments, textiles et"; }
+		{ String _name = "AnimalsUpLeftTxt08";				String _text = "tissus et marchandises emballées."; }
+		{ String _name = "DSThompsonTradeDeco01Fish";				String _text = "quai de pêche"; }
+		{ String _name = "DSThompsonTradeDeco01FishLwr";				String _text = "quai commercial thompson"; }
+		{ String _name = "DSThompsonTradeDeco01FishTip";				String _text = "La pêche est autorisée à cet endroit, améliorez pour permettre à 1-2 pêcheurs de travailler depuis le quai. Nécessite 34 travail à construire."; }
+		{ String _name = "DSThompsonTradeDecoGhost";				String _text = "quai fantôme 1x1"; }
+		{ String _name = "DSThompsonTradeDecoGhostCnr";				String _text = "quai fantôme angle"; }
+		{ String _name = "DSThompsonTradeDecoGhostCnrLwr";				String _text = "quai commercial thompson"; }
+		{ String _name = "DSThompsonTradeDecoGhostCnrTip";				String _text = "un triangle d'angle de quai décoratif fantôme Thompson Trade. 1x1, variantes par touche F. Gratuit à construire. Supprimer via le menu UI de l'objet."; }
+		{ String _name = "DSThompsonTradeDecoGhostLow";				String _text = "quai fantôme 1x1 bas"; }
+		{ String _name = "DSThompsonTradeDecoGhostLowCnr";				String _text = "quai fantôme bas, angle"; }
+		{ String _name = "DSThompsonTradeDecoGhostLowCnrLwr";				String _text = "quai commercial thompson"; }
+		{ String _name = "DSThompsonTradeDecoGhostLowCnrTip";				String _text = "un triangle d'angle de quai décoratif fantôme Thompson Trade à un niveau inférieur. 1x1, variantes par touche F. Gratuit à construire. Supprimer via le menu UI de l'objet."; }
+		{ String _name = "DSThompsonTradeDecoGhostLowLwr";				String _text = "quai commercial thompson"; }
+		{ String _name = "DSThompsonTradeDecoGhostLowTip";				String _text = "une pièce de quai décorative fantôme Thompson Trade à un niveau inférieur. 1x1. Gratuit à construire. Supprimer via le menu UI de l'objet."; }
+		{ String _name = "DSThompsonTradeDecoGhostLwr";				String _text = "quai commercial thompson"; }
+		{ String _name = "DSThompsonTradeDecoGhostMenu";				String _text = "Pièces de quai décoratives fantômes"; }
+		{ String _name = "DSThompsonTradeDecoGhostTip";				String _text = "une pièce de quai décorative fantôme Thompson Trade. 1x1. Gratuit à construire. Supprimer via le menu UI de l'objet."; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsStorage";				String _text = "Stockage : Nourriture et biens"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsStorageLwr";				String _text = "stockage commercial thompson"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsStorageTip";				String _text = "Stockage du marchand Thompson Trade. Stocke toutes les nourritures et comestibles, outils, vêtements, objets artisanaux et ustensiles, verre, textiles et tissus, herbes et médicaments et marchandises emballées. Le bâtiment a une capacité de 30 000 de poids. Emprise de 10x8. Nécessite 144 travail à construire."; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsTxt1";				String _text = "bétail domestiqué, élevé à la main,"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsTxt2";				String _text = "pour les animaux les plus sains et productifs."; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsTxtName";				String _text = "Quai du bétail"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsUp";				String _text = "Stockage : Nourriture et biens"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsUpLwr";				String _text = "stockage commercial thompson"; }
+		{ String _name = "DSThompsonTradeMerchantAnimalsUpTip";				String _text = "améliorer le commerçant en un lieu de stockage. Stocke toutes les nourritures et comestibles, outils, vêtements, objets artisanaux et ustensiles, verre, textiles et tissus, herbes et médicaments et marchandises emballées. Le bâtiment a une capacité de 30 000 de poids. Emprise de 10x8. Nécessite 89 travail à construire."; }
+		{ String _name = "DSThompsonTradeMerchantBSTxt1";				String _text = "rondins et bois d'œuvre, pierre, fer et métaux,"; }
+		{ String _name = "DSThompsonTradeMerchantBSTxt2";				String _text = "matériaux de construction et objets forgés."; }
+		{ String _name = "DSThompsonTradeMerchantBSTxtName";				String _text = "Quai des matériaux de construction"; }
+		{ String _name = "DSThompsonTradeMerchantFVGTxt1";				String _text = "fruits, légumes et céréales."; }
+		{ String _name = "DSThompsonTradeMerchantFVGTxt2";				String _text = "toujours frais et livraisons à l'heure."; }
+		{ String _name = "DSThompsonTradeMerchantFVGTxtName";				String _text = "Quai fruits, légumes et céréales"; }
+		{ String _name = "DSThompsonTradeMerchantFuelsTxt1";				String _text = "combustibles domestiques et métallurgiques."; }
+		{ String _name = "DSThompsonTradeMerchantFuelsTxt2";				String _text = "livraisons régulières, toujours à l'heure."; }
+		{ String _name = "DSThompsonTradeMerchantFuelsTxtName";				String _text = "Quai des combustibles"; }
+		{ String _name = "DSThompsonTradeMerchantGoodsTxt1";				String _text = "outils, vêtements, textiles et tissus,"; }
+		{ String _name = "DSThompsonTradeMerchantGoodsTxt2";				String _text = "santé, objets artisanaux et forgés."; }
+		{ String _name = "DSThompsonTradeMerchantGoodsTxtName";				String _text = "Quai des biens et de l'artisanat"; }
+		{ String _name = "DSThompsonTradeMerchantMineralsTxt1";				String _text = "tous les minéraux : minerais et matériaux,"; }
+		{ String _name = "DSThompsonTradeMerchantMineralsTxt2";				String _text = "minerai de fer, chaux, sable et argile."; }
+		{ String _name = "DSThompsonTradeMerchantMineralsTxtName";				String _text = "Quai des minerais et matériaux"; }
+		{ String _name = "DSThompsonTradeMerchantProteinTxt1";				String _text = "les coupes de viande les plus fraîches, la volaille,"; }
+		{ String _name = "DSThompsonTradeMerchantProteinTxt2";				String _text = "les noix et autres protéines."; }
+		{ String _name = "DSThompsonTradeMerchantProteinTxtName";				String _text = "Quai des viandes et noix"; }
+		{ String _name = "DSThompsonTradeMerchantRoad";				String _text = "Route en pierre du marchand Thompson Trade"; }
+		{ String _name = "DSThompsonTradeMerchantRoad01";				String _text = "Route en pierre TTM N-S"; }
+		{ String _name = "DSThompsonTradeMerchantRoad01Tip";				String _text = "une texture de route idéale Nord-Sud, 1 Pierre + 2 Travail pour construire par tuile. Déplacement plus rapide des citoyens."; }
+		{ String _name = "DSThompsonTradeMerchantRoad02";				String _text = "Route en pierre TTM NE-SO"; }
+		{ String _name = "DSThompsonTradeMerchantRoad02Tip";				String _text = "une texture de route idéale Nord-Est - Sud-Ouest, 1 Pierre + 2 Travail pour construire par tuile. Déplacement plus rapide des citoyens."; }
+		{ String _name = "DSThompsonTradeMerchantRoad03";				String _text = "Route en pierre TTM E-O"; }
+		{ String _name = "DSThompsonTradeMerchantRoad03Tip";				String _text = "une texture de route idéale Est-Ouest, 1 Pierre + 2 Travail pour construire par tuile. Déplacement plus rapide des citoyens."; }
+		{ String _name = "DSThompsonTradeMerchantRoad04";				String _text = "Route en pierre TTM NO-SE"; }
+		{ String _name = "DSThompsonTradeMerchantRoad04Tip";				String _text = "une texture de route idéale Nord-Ouest-Sud-Est, 1 Pierre + 2 Travail pour construire par tuile. Déplacement plus rapide des citoyens."; }
+		{ String _name = "DSThompsonTradeMerchantRoadLwr";				String _text = "route en pierre du comptoir commercial thompson"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsTxt1";				String _text = "les meilleures semences de cultures et de vergers,"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsTxt2";				String _text = "pureté et germination garanties."; }
+		{ String _name = "DSThompsonTradeMerchantSeedsTxtName";				String _text = "Quai des semences"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp1";				String _text = "Petit marchand"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp1Tip";				String _text = "améliorez vers le Petit comptoir commercial Thompson, pour importer toute la nourriture, les combustibles domestiques, les outils, les herbes et les produits de santé. Les marchands accepteront la plupart des biens en paiement. Le bâtiment a une capacité de 12 000 de poids. Emprise de 3x8. Emploie 1 à 5 marchands. Nécessite 34 travail pour être construit."; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp1Txt1";				String _text = "fruits, légumes, céréales, viande et noix,"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp1Txt2";				String _text = "combustible, outils, herbes et articles de santé."; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp1TxtName";				String _text = "Petit quai commercial"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp2";				String _text = "Petit marchand"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp2Tip";				String _text = "améliorez vers le Petit comptoir commercial Thompson, pour importer toute la nourriture, les combustibles domestiques, les vêtements, les herbes et les produits de santé. Les marchands accepteront la plupart des biens en paiement. Le bâtiment a une capacité de 12 000 de poids. Emprise de 3x8. Emploie 1 à 5 marchands. Nécessite 34 travail pour être construit."; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp2Txt1";				String _text = "fruits, légumes, céréales, viande et noix,"; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp2Txt2";				String _text = "combustible, vêtements, herbes et articles de santé."; }
+		{ String _name = "DSThompsonTradeMerchantSeedsUp2TxtName";				String _text = "Petit quai commercial"; }
+		{ String _name = "DSThompsonTradeMerchantTownTxt0";				String _text = "Comptoir commercial municipal, importateurs"; }
+		{ String _name = "DSThompsonTradeMerchantTownTxt1";				String _text = "de tous les besoins de la ville : nourriture, outils,"; }
+		{ String _name = "DSThompsonTradeMerchantTownTxt2";				String _text = " vêtements, combustible, médicaments et plus encore."; }
+		{ String _name = "DSThompsonTradeMerchantTownTxtName";				String _text = "Quai des denrées et marchandises"; }
+		{ String _name = "DeleteButtonTip";				String _text = "Retirer cette pièce de quai"; }
+		{ String _name = "DisableFishWork";				String _text = "ne pêche pas"; }
+		{ String _name = "EnableFishWork";				String _text = "pêche maintenant"; }
+		{ String _name = "FishingGear";				String _text = "Équipement de pêche"; }
+		{ String _name = "SeedUpLeftTxt01";				String _text = "Option d'amélioration #1"; }
+		{ String _name = "SeedUpLeftTxt03";				String _text = "toute la nourriture et les denrées"; }
+		{ String _name = "SeedUpLeftTxt04";				String _text = "(fruits, légumes, céréales, protéines),"; }
+		{ String _name = "SeedUpLeftTxt05";				String _text = "combustibles domestiques, outils et"; }
+		{ String _name = "SeedUpLeftTxt06";				String _text = "herbes et articles de santé. "; }
+		{ String _name = "SeedUpRightTxt01";				String _text = "Option d'amélioration #2"; }
+		{ String _name = "SeedUpRightTxt03";				String _text = "toute la nourriture et les denrées"; }
+		{ String _name = "SeedUpRightTxt04";				String _text = "(fruits, légumes, céréales, protéines),"; }
+		{ String _name = "SeedUpRightTxt05";				String _text = "combustibles domestiques, vêtements et"; }
+		{ String _name = "SeedUpRightTxt06";				String _text = "herbes et articles de santé. "; }
+		{ String _name = "SeedUpTxt02";				String _text = "le marchand importera :"; }
+		{ String _name = "TotalAnimalBuy";				String _text = "Acheter du bétail au marchand -- Coût total :"; }
+		{ String _name = "TotalSeedBuy";				String _text = "Acheter des semences au marchand -- Coût total :"; }
+		{ String _name = "Upgrade";				String _text = "Améliorer"; }
+
 	]
 }
