@@ -4,39 +4,43 @@ StringTable toolbar
 	[
 		{
 			String _name = "CollectStoneAndIron";
-			String _text = "[Bl] Récolter le minerai de fer et la pierre";
+			String _text = "Récolter la pierre et le fer";
 		}
 		{
 			String _name = "CollectStoneAndIronLwr";
-			String _text = "[Bl] Récolter le minerai de fer et la pierre";
+			String _text = "récolter la pierre et le fer";
 		}
 		{
 			String _name = "CollectStoneAndIronTip";
-			String _text = "Envoyez vos ouvriers libres récolter le minerai de fer et la pierre dans la zone sélectionnée.";
+			String _text = "Demandez aux citoyens de récolter à la fois la pierre et le fer dans la zone sélectionnée.";
 		}
 		{
 			String _name = "CollectHerbs";
-			String _text = "[Bl] Récolter les herbes";
+			String _text = "Récolter des herbes";
 		}
 		{
 			String _name = "CollectHerbsLwr";
-			String _text = "[Bl] Récolter les herbes";
+			String _text = "récolter des herbes";
 		}
 		{
 			String _name = "CollectHerbsTip";
-			String _text = "Envoyez vos ouvriers libres récolter les herbes dans la zone sélectionnée.";
+			String _text = "Demandez aux citoyens de récolter des herbes médicinales dans la zone sélectionnée.";
 		}
 		{
 			String _name = "CollectWildFood";
-			String _text = "[Bl] Récolter la nourriture sauvage";
+			String _text = "Récolter des aliments sauvages";
 		}
 		{
 			String _name = "CollectWildFoodLwr";
-			String _text = "[Bl] Récolter la nourriture sauvage";
+			String _text = "Récolter des aliments sauvages";
 		}
 		{
 			String _name = "CollectWildFoodTip";
-			String _text = "Envoyez vos ouvriers libres récolter la nourriture sauvage dans la zone sélectionnée.";
+			String _text = "Demandez aux citoyens de récolter divers aliments sauvages (baies, champignons, oignons et racines) dans la zone sélectionnée.";
+		}
+		{
+			String _name = "BusyLaborers_menu";
+			String _text = "Mod Ouvriers Actifs";
 		}
 		{
 			String _name = "MainToolbar";

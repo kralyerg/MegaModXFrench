@@ -110,6 +110,116 @@ StringTable resource
 			String _name = "TreeGreyTip";
 			String _text = "Un arbre gris.";
 		}
+
+		// --- merged from IdleCoreRecovered/IdleSCTRecovered aliases, 2026-10-03 ---
+		{
+			String _name = "Impossible";
+			String _text = "Arbres impossibles";
+		}
+		{
+			String _name = "ImpossibleLwr";
+			String _text = "objets d'arbres impossibles";
+		}
+		{
+			String _name = "ImpossibleTip";
+			String _text = "Construisez des arbres fous dans votre ville.";
+		}
+		{
+			String _name = "ImpossibleTreeiteams";
+			String _text = "Arbres impossibles";
+		}
+		{
+			String _name = "ImpossibleTreeiteamsLwr";
+			String _text = "objets d'arbres impossibles";
+		}
+		{
+			String _name = "ImpossibleTreeiteamsTip";
+			String _text = "Construisez des arbres fous dans votre ville.";
+		}
+		{
+			String _name = "ImpossibleTrees";
+			String _text = "Arbres impossibles";
+		}
+		{
+			String _name = "ImpossibleTreesLwr";
+			String _text = "objets d'arbres impossibles";
+		}
+		{
+			String _name = "ImpossibleTreesTip";
+			String _text = "Construisez des arbres fous dans votre ville.";
+		}
+		{
+			String _name = "TheTree";
+			String _text = "Arbres impossibles";
+		}
+		{
+			String _name = "TheTreeLwr";
+			String _text = "objets d'arbres impossibles";
+		}
+		{
+			String _name = "TheTreeTip";
+			String _text = "Construisez des arbres fous dans votre ville.";
+		}
+		{
+			String _name = "TheTreePoints";
+			String _text = "Arbres impossibles";
+		}
+		{
+			String _name = "TheTreePointsLwr";
+			String _text = "objets d'arbres impossibles";
+		}
+		{
+			String _name = "TheTreePointsTip";
+			String _text = "Construisez des arbres fous dans votre ville.";
+		}
+		{
+			String _name = "TheTrees";
+			String _text = "Arbres impossibles";
+		}
+		{
+			String _name = "TheTreesLwr";
+			String _text = "objets d'arbres impossibles";
+		}
+		{
+			String _name = "TheTreesTip";
+			String _text = "Construisez des arbres fous dans votre ville.";
+		}
+		{
+			String _name = "Tree";
+			String _text = "Arbres impossibles";
+		}
+		{
+			String _name = "TreeLwr";
+			String _text = "objets d'arbres impossibles";
+		}
+		{
+			String _name = "TreeTip";
+			String _text = "Construisez des arbres fous dans votre ville.";
+		}
+		{
+			String _name = "Trees";
+			String _text = "Arbres impossibles";
+		}
+		{
+			String _name = "TreesLwr";
+			String _text = "objets d'arbres impossibles";
+		}
+		{
+			String _name = "TreesTip";
+			String _text = "Construisez des arbres fous dans votre ville.";
+		}
+		{
+			String _name = "impossibletreeiteams";
+			String _text = "Arbres impossibles";
+		}
+		{
+			String _name = "impossibletreeiteamsLwr";
+			String _text = "objets d'arbres impossibles";
+		}
+		{
+			String _name = "impossibletreeiteamsTip";
+			String _text = "Construisez des arbres fous dans votre ville.";
+		}
 	]
 
 }
