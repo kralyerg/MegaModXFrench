@@ -43,5 +43,10 @@ StringTable resource
 		{ String _name = "IronOreLimitShort";				String _text = "Minerai de fer"; }
 		{ String _name = "IronOreLimitTip";				String _text = "Contrôle la quantité de Minerai de fer (Matériaux) stockée. Une fois cette limite atteinte, la production de tous les Matériaux cessera."; }
 
+	
+		{ String _name = "DSTunnelMine";	String _text = "Mine tunnel"; }
+		{ String _name = "DSTunnelMineLwr";	String _text = "mine tunnel"; }
+		{ String _name = "DSTunnelMineTip";	String _text = "Une mine tunnel de montagne, jusqu'à 8 mineurs y travaillent pour extraire la pierre, le charbon et le fer."; }
+		{ String _name = "DSIronRequire";	String _text = "Fer"; }
 	]
 }

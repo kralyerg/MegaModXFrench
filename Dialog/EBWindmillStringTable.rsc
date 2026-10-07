@@ -15,5 +15,8 @@ StringTable resource
 		{ String _name = "EBFlourCornRequire";	String _text = "Farine [Maïs]"; }
 		{ String _name = "EBFlourBarleyRequire";	String _text = "Farine [Orge]"; }
 		{ String _name = "EBFlourSorghumRequire";	String _text = "Farine [Sorgho]"; }
+	
+		{ String _name = "Barley";	String _text = "Orge"; }
+		{ String _name = "Sorghum";	String _text = "Sorgho"; }
 	]
 }

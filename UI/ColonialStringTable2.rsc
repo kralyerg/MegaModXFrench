@@ -166,6 +166,7 @@ StringTable resource
 		{ String _name = "TinyshackTip";					String _text = "Une habitation petite et basique qui permettra aux nouvelles familles de grandir jusqu'à 3 personnes seulement. Cependant, une famille existante de n'importe quelle taille peut y emménager si elle est relogée."; }
 		
 		{ String _name = "Tinyhouse";						String _text = "Petite Maison"; }
+		{ String _name = "TinyhouseLwr";						String _text = "petite maison"; }
 		{ String _name = "TinyshackLwr";					String _text = "petite maison"; }
 		{ String _name = "TinyhouseTip";					String _text = "Une habitation petite et basique qui permettra aux nouvelles familles de grandir jusqu'à 4 personnes seulement. Cependant, une famille existante de n'importe quelle taille peut y emménager si elle est relogée. Plus chaude et confortable qu'une petite cabane."; }
 		
@@ -363,6 +364,7 @@ StringTable resource
 		{ String _name = "IronMineDeepTip";					String _text = "Une mine profonde pour continuer l'extraction de ressources. Utile pour la mise à niveau lorsque votre mine actuelle est presque vide."; }
 
 		{ String _name = "IronMineDeeper";					String _text = "Mine Profonde"; }
+		{ String _name = "IronMineDeeperTip";					String _text = "Une mine encore plus profonde pour poursuivre l'extraction des ressources. Utile pour passer au niveau supérieur lorsque votre mine actuelle est presque vide."; }
 		{ String _name = "IronMineDeeperLwr";					String _text = "mine profonde"; }
 		{ String _name = "IronMineDeepTip";					String _text = "Une mine encore plus profonde pour continuer l'extraction de ressources. Utile pour la mise à niveau lorsque votre mine actuelle est presque vide."; }
 
@@ -371,6 +373,7 @@ StringTable resource
 		{ String _name = "QuarryDeepTip";					String _text = "Une carrière profonde pour continuer l'extraction de ressources. Utile pour la mise à niveau lorsque votre carrière actuelle est presque vide."; }
 
 		{ String _name = "QuarryDeeper";					String _text = "Carrière Plus Profonde"; }
+		{ String _name = "QuarryDeeperTip";					String _text = "Une carrière encore plus profonde pour poursuivre l'extraction des ressources. Utile pour passer au niveau supérieur lorsque votre carrière actuelle est presque vide."; }
 		{ String _name = "QuarryDeeperLwr";					String _text = "carrière plus profonde"; }
 		{ String _name = "QuarryDeepTip";					String _text = "Une carrière encore plus profonde pour continuer l'extraction de ressources. Utile pour la mise à niveau lorsque votre carrière actuelle est presque vide."; }
 

@@ -5,7 +5,7 @@ PackageFile MegaModXFrench
 	String _description = "French translation of MegaMod X's UI and dialog text, with an extended character set for accented vowels and ligatures. No buildings, toolbars, or mechanics are modified. Place ABOVE MegaMod in the mod load order so these translated strings override the English originals.";
 	String _icon = "icon.png";
 	String _preview = "preview.jpg";
-	int _userVersion = 2;
+	int _userVersion = 4;
 
 	// all files in resource directory
 	String _includeList

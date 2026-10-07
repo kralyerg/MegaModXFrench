@@ -941,6 +941,7 @@ StringTable resource
 		{ String _name = "NMT3F2C1T2Tip";		String _text = "Un NMT MultiStory house 2nd floor est utilise pour housing votre citoyens. Taille : 1x5 cases. Cout : 16 bois de charpente, 28 pierre, 4 fer, 10 verre, 18 rondins. Residence : 5 citoyens. Efficacite thermique % : 96. Modeles : 1. Color: 1. Astuces : Ils sont meant à etre placed juste à le droite de le Corner Multi-niveau 1st floor."; }
 
 		{ String _name = "NMT3F2C1T3";			String _text = "MultiStory 2nd floor"; }
+		{ String _name = "NMT3F2C1T3Lwr";			String _text = "multistory 2nd floor"; }
 		{ String _name = "NMT3F2vT3Lwr";		String _text = "multistory 2nd floor"; }
 		{ String _name = "NMT3F2C1T3Tip";		String _text = "Un NMT MultiStory house 2nd floor est utilise pour housing votre citoyens. Taille : 1x5 cases. Cout : 16 bois de charpente, 28 brique, 4 pierre, 10 verre, 18 tuile. Residence : 5 citoyens. Efficacite thermique % : 110. Modeles : 1. Color: 1. Astuces : Ils sont meant à etre placed juste à le droite de le Corner Multi-niveau 1st floor."; }
 
@@ -1044,6 +1045,7 @@ StringTable resource
 		{ String _name = "HostelF2C1T2Tip";			String _text = "Un Hostel 2nd floor est utilise pour housing votre citoyens quand ils pas ont leur propre home. Taille : 1x5 cases. Cout : 16 bois de charpente, 28 pierre, 4 fer, 10 verre, 18 rondins. Residence : 3X families de 5 citoyens. Efficacite thermique % : 96. Modeles : 1. Color: 1. Astuces : Ils sont meant à etre placed juste à le droite de le Corner Hostel 1st floor."; }
 
 		{ String _name = "HostelF2C1T3";			String _text = "Hostel 2nd floor"; }
+		{ String _name = "HostelF2C1T3Lwr";			String _text = "hostel 2nd floor"; }
 		{ String _name = "HostelF2vT3Lwr";			String _text = "hostel 2nd floor"; }
 		{ String _name = "HostelF2C1T3Tip";			String _text = "Un Hostel 2nd floor est utilise pour housing votre citoyens quand ils pas ont leur propre home. Taille : 1x5 cases. Cout : 16 bois de charpente, 28 brique, 4 pierre, 10 verre, 18 tuile. Residence : 3X families de 5 citoyens. Efficacite thermique % : 110. Modeles : 1. Color: 1. Astuces : Ils sont meant à etre placed juste à le droite de le Corner Hostel 1st floor."; }
 

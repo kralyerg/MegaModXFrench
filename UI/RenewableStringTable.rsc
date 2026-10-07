@@ -13,6 +13,7 @@ StringTable resource
 		{ String _name = "StoneShackTip";		String _text = "Fait pousser des Pierres à récolter"; }
 
 		{ String _name = "IronShack";			String _text = "Cabane à Fer"; }
+		{ String _name = "IronShackLwr";			String _text = "cabane à fer"; }
 		{ String _name = "IrondShackLwr";		String _text = "cabane à fer"; }
 		{ String _name = "IronShackTip";		String _text = "Fait pousser du Fer à récolter"; }
 

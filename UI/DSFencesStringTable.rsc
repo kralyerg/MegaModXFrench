@@ -395,5 +395,14 @@ StringTable resource
 		{ String _name = "DSCornerStorageUpgradeTip";		String _text = "Améliorer pour une capacité de stockage de 500, stocke Légumes, Fruits et Grains."; }
 		
 
+	
+		{ String _name = "ToolbarDSFencesTip";	String _text = "DS Clôtures. Une collection d'éléments de clôture modulaires."; }
+		{ String _name = "DSCountryStoneWall5wideLwr";	String _text = "mur en pierre champêtre"; }
+		{ String _name = "MenuDSModularFencesTip";	String _text = "Éléments de clôture modulaires - décoratifs et liés a la route, touche F pour les variantes."; }
+		{ String _name = "MenuDSStoneWallsTip";	String _text = "Mur en pierre urbain - 2 styles de couleur, variantes par touche F."; }
+		{ String _name = "MenuDSFencesDecoTip";	String _text = "Décorations - touche F pour les variantes."; }
+		{ String _name = "MenuDSFencesDecoLanternsTip";	String _text = "Lanternes"; }
+		{ String _name = "DSFenceClearBuildings";	String _text = "Supprimer les structures"; }
+		{ String _name = "DSFenceClearBuildingsTip";	String _text = "Supprime les structures dans la zone sélectionnée. REMARQUE : certaines clôtures/portails peuvent nécessiter une suppression par mise à niveau ou via le bouton Supprimer dans la fenêtre d'interface."; }
 	]
 }
